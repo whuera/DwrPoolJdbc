@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"TranslatorTargetTree.js",
+"lineCount":3,
+"mappings":"A,SAAAA,MAAA,2CAAmD,mNAAA,MAAA,KAAnD,CAUE,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAAwBC,CAAxB,CAAsCC,CAAtC,QAEQH,EAAA,4CAAqDG,CAArD,8FAOK,0HAAA,MAAA,KAPL;+EAUcC,QAAAA,GACnBC,cAAA,CAAeC,SAAf,CADmBF,KAEfG,EAAOC,EAAAC,KAAAC,WAAAC,MAAAC,kBAAA,CAA2CC,UAA3C,CAAuDC,gBAAvD,CACXC,WAHmBX,CAGR,IAAII,EAAAC,KAAAO,IAAAC,MAAJ,+CAAoEJ,UAApE,CAA+EC,gBAA/E,EAAiGP,CAAAW,iBAAjG,CAAuHX,CAAAY,WAAvH,OAEXC,WALmBhB,CAILiB,IAAIb,EAAAC,KAAAO,IAAAM,eAAJD,0DAAwFN,UAAxFM,EAEdE,mBANmBnB,EAOnBoB,sBAPmBpB,EAQnBqB,aARmBrB;GAVd,iBAoBUsB,QAAAA,CAASC,CAATD,CAAgBE,CAAhBF,WApBV,qBAwBcG,QAAAA,CAASC,CAATD,CAAcF,CAAdE,CAAqBE,CAArBF,WAxBd,qBA2BcG,QAAAA,YA3Bd,cA8BOC,QAAAA,CAASC,CAATD,SACRC,CADQD,OAITlB,UAAAoB,SAAA,CAAoBD,CAApB,QAJSD,yBA9BP,EAFR,CAVF;",
+"sources":["TranslatorTargetTree.js.uncompressed.js"],
+"names":["define","declare","dojo","domConstruct","Tree","postMixInProperties","inherited","arguments","ctrl","ec","fisa","controller","utils","getPageController","tabId","pageScopeId","store","dwr","Store","translatorTarget","targetType","model","itemModel","TreeStoreModel","dragThreshold","betweenThreshold","persist","checkAcceptance","source","nodes","checkItemAcceptance","node","position","deleteSelectedNodes","getIconClass","item","getValue"]
+}

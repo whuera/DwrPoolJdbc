@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"FieldsGrid.js",
+"lineCount":3,
+"mappings":"A,SAAAA,MAAA,mCAA0C,2NAAA,MAAA,KAA1C,CAWG,QAAA,CAASC,CAAT,CAAeC,CAAf,CAAwBC,CAAxB,CAA8BC,CAA9B,CAAuCC,CAAvC,CAAgDC,CAAhD,CAAiEC,CAAjE,CAA0FC,CAA1F,CAA4GC,CAA5G,QAEcP,EAAAQ,oCAA4CF,CAA5CE,sKAUJC,QAAAA,GACXC,cAAA,CAAeC,SAAf,CACAT;YAAA,2BAAuCU,wBAAvC,CACYC,GAAAC,KAAAC,WAAAC,MAAAC,kBAAAC,CAA2CC,UAA3CD,CAAuDE,gBAAvDF,CACZG,aAJWZ,CAIQa,OAJRb,CAVID,qBAgBIe,QAAAA,GACnBb,cAAA,CAAeC,SAAf,CADmBY,KAEfC,mFACDC,aAHgBF,CAIlBE,YAAAD,kBAJkBD,CAIaC,CAJbD,CAMlBE,YANkBF,oBAMgBC,CANhBD,CASnBG,gBATmBH,CAQnBI,eARmBJ,GAUnBK,eAVmBL;cAWfL,EAXeK,CAWPV,EAAAC,KAAAC,WAAAC,MAAAC,kBAAA,CAA2CE,UAA3C,CAAuDC,gBAAvD,CACZS,WAZmBN,CAYRL,CAAAY,YAZQP,OAahBL,CAAAa,QAbgBR,OAaKL,CAAAa,QAAAC,EAbLT,GAclBU,QAdkBV,CAcTL,CAAAa,QAAAT,GAdSC,EAhBJf,qBAiCII,QAAAA,GACPC,EAAAC,KAAAC,WAAAC,MAAAC,kBAAAC,CAA2CC,UAA3CD,CAAuDE,gBAAvDF,CACZgB,gBAAA,CAAsBZ,OAAtB,CAFmBV,CAjCJJ,kBAqCC2B,QAAAA,GAChBzB,cAAA,CAAeC,SAAf,CADgBwB,OAEbF,QAFaE,EAGfC,cAAAC,OAAA,CAAsBR,UAAAS,mBAAA,CAA8BL,QAA9B,CAAA,GAAtB,CAHeE,CArCD3B,EAFd,CAXH;",
+"sources":["FieldsGrid.js.uncompressed.js"],
+"names":["define","dojo","declare","lang","connect","_Widget","_TemplatedMixin","_WidgetsInTemplateMixin","FisaEnhancedGrid","IndirectSelection","FieldsGrid","postCreate","inherited","arguments","execSelectionChange","ec","fisa","controller","utils","getPageController","ctrlr","tabId","pageScopeId","fieldsGridId","id","postMixInProperties","indirectSelection","plugins","selectable","autoHeight","structure","store","fieldsStore","dataKey","t","fsv","changeSelection","_onFetchComplete","selection","select","_getItemByIdentity"]
+}

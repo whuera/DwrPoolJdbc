@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"TranslatorTree.js",
+"lineCount":3,
+"mappings":"A,SAAAA,MAAA,qCAA6C,mNAAA,MAAA,KAA7C,CAUE,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAAwBC,CAAxB,CAAsCC,CAAtC,QAEQH,EAAA,4CAAqDG,CAArD,8FAOK,0HAAA,MAAA,KAPL;yDAScC,QAAAA,GACnBC,cAAA,CAAeC,SAAf,CACAC,WAFmBH,CAER,IAAII,EAAAC,KAAAC,IAAAC,MAAJ,+CAAoEC,UAApE,CAA+EC,gBAA/E,SAEXC,WAJmBV,CAGLW,IAAIP,EAAAC,KAAAC,IAAAM,eAAJD,0DAAwFR,UAAxFQ,EAEdE,mBALmBb,EAMnBc,sBANmBd,EAOnBe,aAPmBf,IATd,SAkBGgB,QAAAA,GAGRf,cAAA,CAAeC,SAAf,CAHQc,CAlBH,iBAyBUC,QAAAA,CAASC,CAATD,CAAgBE,CAAhBF,WAzBV,qBA4BcG,QAAAA,CAASC,CAATD;AAAcF,CAAdE,CAAqBE,CAArBF,WA5Bd,qBA+BcG,QAAAA,YA/Bd,cAkCOC,QAAAA,CAASC,CAATD,SACRC,CADQD,OAITrB,UAAAuB,SAAA,CAAoBD,CAApB,QAJSD,yBAlCP,EAFR,CAVF;",
+"sources":["TranslatorTree.js.uncompressed.js"],
+"names":["define","declare","dojo","domConstruct","Tree","postMixInProperties","inherited","arguments","store","ec","fisa","dwr","Store","tabId","pageScopeId","model","itemModel","TreeStoreModel","dragThreshold","betweenThreshold","persist","creator","checkAcceptance","source","nodes","checkItemAcceptance","node","position","deleteSelectedNodes","getIconClass","item","getValue"]
+}

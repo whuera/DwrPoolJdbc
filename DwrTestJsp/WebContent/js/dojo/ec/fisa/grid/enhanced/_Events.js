@@ -1,0 +1,4 @@
+//>>built
+define("ec/fisa/grid/enhanced/_Events","dojo/_base/kernel dojo/_base/declare dojo/keys dojo/_base/html dojo/_base/event dojox/grid/enhanced/_Events".split(" "),function(d,b,e,f,g,c){return b("ec.fisa.grid.enhanced._Events",c,{onCellClick:function(a){this.fisaEditableGrid||(this._events.onCellClick.call(this,a),this.focus.contentMouseEvent(a))},onRowClick:function(a){this.fisaEditableGrid||this.edit.rowClick(a);(!a.cell||!this.plugin("indirectSelection"))&&this.selection.clickSelectEvent(a)},onCellFocus:function(a,
+b){this.fisaEditableGrid||this.edit.cellFocus(a,b)},onContentEvent:function(a){this.fisaEditableGrid||this.dispatchContentEvent(a)}})});
+//@ sourceMappingURL=_Events.js.map

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"EventReportActionDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,qIAAmJ,QAAA,CAASC,CAAT,CAAeC,CAAf,QAC3IA,EAAA,gDAD2I,CAAnJ;",
+"sources":["EventReportActionDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

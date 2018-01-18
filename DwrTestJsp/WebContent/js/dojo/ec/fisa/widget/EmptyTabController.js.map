@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"EmptyTabController.js",
+"lineCount":2,
+"mappings":"A,SAAAA,MAAA,qCAA4C,0JAAA,MAAA,KAA5C,CAWA,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAA8BC,CAA9B,CAAuCC,CAAvC,CAAiDC,CAAjD,CAAuDC,CAAvD,CAAuEC,CAAvE,QACQJ,EAAA,sCAA8CF,CAA9C,CAAuDC,CAAvD,CAAmEI,CAAnE,CAAoFC,CAApF,aACIC,IAAAC,OAAAC,aADJ,aAEMF,IAAAC,OAAAE,eAFN,sCAIUH,IAAAC,OAAAG,gBAJV,kCAMYJ,IAAAC,OAAAI,iBANZ,gBAOWL,IAAAM,MAAA;uCAPX,SASEC,QAAAA,GACPC,cAAA,CAAeC,SAAf,CACAb,EAAAc,IAAA,CAAaC,YAAb,iBAFOJ,CATF,EADR,CAXA;",
+"sources":["EmptyTabController.js.uncompressed.js"],
+"names":["define","_Widget","_Templated","declare","domStyle","html","_TemplatedMixin","_WidgetsInTemplateMixin","dojo","config","fisaToDosUrl","fisaToDosTitle","fisaNewTabLabel","fisaTabMaxNumber","cache","startup","inherited","arguments","set","domNode"]
+}

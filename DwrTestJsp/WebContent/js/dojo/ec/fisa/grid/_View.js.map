@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"_View.js",
+"lineCount":2,
+"mappings":"A,SAAAA,MAAA,8FAIG,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAAwBC,CAAxB,QAEKF,EAAA,uBAA+BE,CAA/B,cACMC,QAAAA,GACXC,YAAA,CAAaC,kBAAb,uBAEAJ,EAAAK,aAAA,CAAkBC,eAAlB,sBAA0D,mEAAA,MAAA,KAA1D,CACAC,aAJWL,CAII,IAAIM,yBAAJ,MACfC,YALWP,CAKG,IAAIQ,wBAAJ,MACVC,UAAAC,cAAA,EANOV,GAOVW,wBAAAC,MAAAC,MAPUb;IADN,EAFL,CAJH;",
+"sources":["_View.js.uncompressed.js"],
+"names":["define","declare","util","_AlignHeaderView","postCreate","connect","scrollboxNode","funnelEvents","headerNode","content","_contentBuilderClass","header","_headerBuilderClass","grid","isLeftToRight","headerNodeContainer","style","width"]
+}

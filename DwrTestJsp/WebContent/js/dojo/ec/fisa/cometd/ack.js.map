@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"ack.js",
+"lineCount":1,
+"mappings":"A,SAeAA,MAAA,wEACQ,QAAA,CAASC,CAAT,CAAuBC,CAAvB,MAEAC,EAAS,IAAIF,CACjBC,EAAAE,kBAAA,OAAgCD,CAAhC,CAHI,OAIGA,EAJH,CADR;",
+"sources":["ack.js.uncompressed.js"],
+"names":["define","AckExtension","cometd","result","registerExtension"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"BeneficiaryAdministrationControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,yKAAuL,QAAA,CAASC,CAAT,CAAeC,CAAf,QAC/KA,EAAA,kEAD+K,CAAvL;",
+"sources":["BeneficiaryAdministrationControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

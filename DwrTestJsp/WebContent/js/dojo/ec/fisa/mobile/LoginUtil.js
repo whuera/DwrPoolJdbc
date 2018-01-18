@@ -1,0 +1,4 @@
+//>>built
+define("ec/fisa/mobile/LoginUtil","dojo/_base/declare dojo/window dojo/_base/window dojo/dom-style dojo/query dojox/mobile/ProgressIndicator ./_base".split(" "),function(b,k,h,a,f){b=b("ec.fisa.mobile.LoginUtil",null,{submit:function(){var a=new dojox.mobile.ProgressIndicator({size:40,center:"true"});h.body().appendChild(a.domNode);return!0},initBodyHeight:function(){var b=h.body(),d=k.getBox(),c=b.fmaxh;if(null==c||c<d.h){a.set(dojo.byId("wrapper"),"height",d.h+"px");var c=f(".mblHeadingLogin")[0],
+e=f(".loginFooterCntr")[0],g=a.get(c,"height"),c=a.get(e,"height");a.set(e,"top",-c-g+"px");e=f(".mblLoginContent")[0];g=a.get(e,"height");a.set(e,"top",d.h-c-g-0.02*d.h+"px");b.fmaxh=d.h}}});ec.fisa.mobile.loginUtil=new b;return b});
+//@ sourceMappingURL=LoginUtil.js.map

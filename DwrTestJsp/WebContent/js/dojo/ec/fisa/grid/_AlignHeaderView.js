@@ -1,0 +1,4 @@
+//>>built
+define("ec/fisa/grid/_AlignHeaderView",["dojo/_base/declare","dojox/grid/util","dojox/grid/_View","./_base"],function(d,f,e){return d("ec.fisa.grid._AlignHeaderView",[e],{_getHeaderContent:function(a){var c=a.name||a.grid.getCellName(a);/^\s+$/.test(c)&&(c="\x26nbsp;");var b=null,b=a.headerstyle?'\x3cdiv style\x3d"'+a.headerstyle+'" class\x3d"dojoxGridSortNode':'\x3cdiv class\x3d"dojoxGridSortNode',b=[b];a.index!=a.grid.getSortIndex()?b.push('"\x3e'):b=b.concat([" ",0<a.grid.sortInfo?"dojoxGridSortUp":
+"dojoxGridSortDown",'"\x3e\x3cdiv class\x3d"dojoxGridArrowButtonChar"\x3e',0<a.grid.sortInfo?"\x26#9650;":"\x26#9660;",'\x3c/div\x3e\x3cdiv class\x3d"dojoxGridArrowButtonNode" role\x3d"presentation"\x3e\x3c/div\x3e','\x3cdiv class\x3d"dojoxGridColCaption"\x3e']);b=b.concat([c,"\x3c/div\x3e\x3c/div\x3e"]);return b.join("")}})});
+//@ sourceMappingURL=_AlignHeaderView.js.map

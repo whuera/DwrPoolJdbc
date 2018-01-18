@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"ImageText.js",
+"lineCount":3,
+"mappings":"A,SAAAA,OAAA,SACA,6CADA,iVAEAC;MAAA,4BAAmC,+HAAA,MAAA,KAAnC,CAOE,QAAA,CAASC,CAAT,CAAiBC,CAAjB,CAAyBC,CAAzB,CAAqCC,CAArC,CAA2CC,CAA3C,QAEQJ,EAAA,6BAAqCC,CAArC,CAA6CC,CAA7C,uNAgBWE,CAhBX,kBAiBWC,QAAAA,UACTC,SADSD,QAETE,YAFSF;OAGTG,UAHSH,QAITI,gBAJSJ,QAKTK,UALSL,QAMTM,QANSN,QAOTO,QAPSP,QAQTQ,cACPC,eAAA,CAAeC,SAAf,CATgBV,CAjBX,qBA4BcW,QAAAA,GACnBF,cAAA,CAAeC,SAAf,CADmBC,KAEhBH,cAFgBG,GAGlBC,gBAHkBD,sBAKhBE,WALgBF,GAMlBG,gBANkBH,gBAMWE,WANXF,UAQhBI,UARgBJ,GASlBK,eATkBL,eASSI,UATTJ,MA5Bd,EAFR,CAPF;",
+"sources":["ImageText.js.uncompressed.js"],
+"names":["require","define","declare","_Widget","_Templated","dojo","template","destroyRendering","btId","fieldId","tabId","pageScopeId","label","src","alt","showLabel","inherited","arguments","postMixInProperties","_labelStyle","height","_heightExpr","width","_widthExpr"]
+}

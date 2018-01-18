@@ -1,0 +1,4 @@
+//>>built
+define("ec/fisa/grid/enhanced/_PluginManager","dojo/_base/kernel dojo/_base/lang dojo/_base/declare ec/fisa/grid/enhanced/_Events dojox/grid/enhanced/_PluginManager ec/fisa/grid/enhanced/_FocusManager dojox/grid/util".split(" "),function(g,h,c,d,e,f,b){return c("ec.fisa.grid.enhanced._PluginManager",e,{preInit:function(){this.grid.focus.destroy();this.grid.focus=new f(this.grid);new d(this.grid);this._init(!0);this.forEach("onPreInit")},_initView:function(a){a&&(this.grid.fisaEditableGrid||b.funnelEvents(a.contentNode,
+a,"doContentEvent",["mouseup","mousemove"]),b.funnelEvents(a.headerNode,a,"doHeaderEvent",["mouseup"]))}})});
+//@ sourceMappingURL=_PluginManager.js.map

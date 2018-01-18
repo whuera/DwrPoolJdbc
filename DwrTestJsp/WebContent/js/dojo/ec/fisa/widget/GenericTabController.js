@@ -1,0 +1,4 @@
+//>>built
+require({cache:{"url:ec/fisa/widget/templates/GenericTabController.html":'\x3cdiv class\x3d"genericTabController"\x3e\n\x3cdiv id\x3d"${id}_instance" dojoType\x3d"${_cmpType}"\x3e\x3c/div\x3e\n\x3c/div\x3e'}});
+define("ec/fisa/widget/GenericTabController","dijit/_Widget dijit/_Templated dojo/_base/declare dijit/_TemplatedMixin dijit/_WidgetsInTemplateMixin dojo/text!ec/fisa/widget/templates/GenericTabController.html ./_base".split(" "),function(a,b,c,d,e,f){return c("ec.fisa.widget.GenericTabController",[a,b,d,e],{_cmpType:dojo.config.fisaToDosWidget,widgetsInTemplate:!0,templateString:f})});
+//@ sourceMappingURL=GenericTabController.js.map

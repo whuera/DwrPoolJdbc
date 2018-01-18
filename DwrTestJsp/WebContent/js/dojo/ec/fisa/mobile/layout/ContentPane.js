@@ -1,0 +1,4 @@
+//>>built
+define("ec/fisa/mobile/layout/ContentPane","dojo/_base/lang dojo/_base/declare dojo/_base/Deferred dojox/mobile/ContentPane dojo/_base/xhr dojo/_base/window".split(" "),function(b,d,h,e,f,g){return d("ec.fisa.mobile.layout.ContentPane",e,{ioArgs:{},_setHrefAttr:function(a){if(this.lazy||!a||a===this._loaded)return this.lazy=!1,null;var c=this._p;c&&(g.body().appendChild(c.domNode),c.start());this._set("href",a);this._loaded=a;return f.get(b.mixin({url:a,handleAs:"text",load:b.hitch(this,"loadHandler"),
+error:b.hitch(this,"errorHandler")},this.ioArgs))}})});
+//@ sourceMappingURL=ContentPane.js.map

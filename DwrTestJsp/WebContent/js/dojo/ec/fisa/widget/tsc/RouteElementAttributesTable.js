@@ -1,0 +1,3 @@
+//>>built
+define("ec/fisa/widget/tsc/RouteElementAttributesTable",["dojo/_base/declare","dojo/_base/kernel","dojo/dom-construct","dojox/grid/DataGrid","./_base"],function(a,c,d,b){return a("ec.fisa.widget.tsc.RouteElementAttributesTable",[b],{dataTableGeneratedId:null,parentTreeId:null,postCreate:function(){this.inherited(arguments);this.dataTableGeneratedId=this.id},onKeyDown:function(a){}})});
+//@ sourceMappingURL=RouteElementAttributesTable.js.map

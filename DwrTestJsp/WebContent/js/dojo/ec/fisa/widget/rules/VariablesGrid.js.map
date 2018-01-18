@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"VariablesGrid.js",
+"lineCount":3,
+"mappings":"A,SAAAA,MAAA,sCAA6C,2NAAA,MAAA,KAA7C,CAWG,QAAA,CAASC,CAAT,CAAeC,CAAf,CAAwBC,CAAxB,CAA8BC,CAA9B,CAAuCC,CAAvC,CAAgDC,CAAhD,CAAiEC,CAAjE,CAA0FC,CAA1F,CAA4GC,CAA5G,QAEiBP,EAAAQ,uCAA+CF,CAA/CE;WAUPC,QAAAA,GACXC,cAAA,CAAeC,SAAf,CACAT,aAAA,2BAAuCU,wBAAvC,CACYC,GAAAC,KAAAC,WAAAC,MAAAC,kBAAAC,CAA2CC,UAA3CD,CAAuDE,gBAAvDF,CACZG,gBAJWZ,CAIWa,OAJXb,CAVOD,qBAgBCe,QAAAA,GACnBb,cAAA,CAAeC,SAAf,CADmBY,KAEfC,mFACDC,aAHgBF,CAIlBE,YAAAD,kBAJkBD,CAIaC,CAJbD,CAMlBE,YANkBF,oBAMgBC,CANhBD,CASnBG,gBATmBH,CAQnBI,eARmBJ,GAUnBK,eAVmBL;uDAWfL,EAXeK,CAWPV,EAAAC,KAAAC,WAAAC,MAAAC,kBAAA,CAA2CE,UAA3C,CAAuDC,gBAAvD,CACZS,WAZmBN,CAYRL,CAAAY,eAZQP,OAahBL,CAAAa,QAbgBR,OAaKL,CAAAa,QAAAC,EAbLT,GAclBU,QAdkBV,CAcTL,CAAAa,QAAAT,GAdSC,EAhBDf,qBAiCCI,QAAAA,GACPC,EAAAC,KAAAC,WAAAC,MAAAC,kBAAAC,CAA2CC,UAA3CD,CAAuDE,gBAAvDF,CACZgB,gBAAA,CAAsBZ,OAAtB,CAFmBV,CAjCDJ,kBAqCF2B,QAAAA,GAChBzB,cAAA,CAAeC,SAAf,CADgBwB,OAEbF,QAFaE,EAGfC,cAAAC,OAAA,CAAsBR,UAAAS,mBAAA,CAA8BL,QAA9B,CAAA,GAAtB,CAHeE,CArCE3B,EAFjB,CAXH;",
+"sources":["VariablesGrid.js.uncompressed.js"],
+"names":["define","dojo","declare","lang","connect","_Widget","_TemplatedMixin","_WidgetsInTemplateMixin","FisaEnhancedGrid","IndirectSelection","VariablesGrid","postCreate","inherited","arguments","execSelectionChange","ec","fisa","controller","utils","getPageController","ctrlr","tabId","pageScopeId","variablesGridId","id","postMixInProperties","indirectSelection","plugins","selectable","autoHeight","structure","store","variablesStore","dataKey","t","fsv","changeSelection","_onFetchComplete","selection","select","_getItemByIdentity"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"Pagination.js",
+"lineCount":4,
+"mappings":"A,SAAAA,MAAA,4CAAmD,4KAAA,MAAA,KAAnD,CASG,QAAA,CAASC,CAAT,CAAiBC,CAAjB,CAA0BC,CAA1B,CAAwCC,CAAxC,CAAiDC,CAAjD,CAA2DC,CAA3D,CAAyEC,CAAzE,CAAyFC,CAAzF,EAECC,CAFD,CAEcP,CAAA,6CAAqDK,CAArD,yHASVG,QAAAA,OACDC,CADCD,+BAEFE,SAAAC,cAFEH;CAIJC,CAJID,KAKJI,eALIJ,KAOJC,CAPID,CAMIE,SAAAD,WANJD,CAOSE,SAAAD,WAPTD,GAYLK,eAZKL,EAYaC,CAZbD,CAaLM,eAAA,CAAeC,SAAf,CACAC,qBAAA,EAdKR,MAeFI,eAfEJ,CAgBJS,kBAAA,EAhBIT,CAkBJU,kBAAA,EAlBIV,CATU,iBA+BAQ,QAAAA,GACXG,WAAAC,WADWJ,GAGdN,SAAAW,UAHcL,CAGO,IAAIM,KAAAC,KAAAjB,OAAJ,KADTI,SAAAc,GACS,oBAAwCd,SAAAe,eAAxC,6BAA6FN,WAAAO,cAA7F,EAAwHzB,CAAA0B,OAAA,YAA+BC,eAAAC,cAA/B,CAAxH,CAHPb,CAIdN,SAAAW,UAAAS,UAJcd;AAKdN,SAAAW,UAAAU,mBALcf,CAKyBN,SAAAc,GALzBR,CAMdN,SAAAW,UAAAnB,QAAA,CAA4BQ,SAAAW,UAA5B,WAA0DF,WAAAa,aAA1D,CANchB,EA/BA,eAwCFE,QAAAA,GACbf,CAAA8B,IAAA,CAAaL,eAAAM,aAAb,uBACA/B,EAAA8B,IAAA,CAAaL,eAAAM,aAAb,cACA/B,EAAA8B,IAAA,CAAaL,eAAAC,cAAb,eAHaX,SAKVC,WAAAgB,qBALUjB,OAKuCC,WAAAgB,qBALvCjB,EAMbf,CAAA8B,IAAA,CAAaL,eAAAQ,cAAb,uBANalB,CAxCE,eAkDFD,QAAAA,GACbd,CAAA8B,IAAA,CAAaL,eAAAS,QAAb;iBADapB,CAlDE,EAuDjBb,EAAAkC,eAAA,CAA4B/B,CAA5B,CAzDG,OA2DIA,EA3DJ,CATH;",
+"sources":["Pagination.js.uncompressed.js"],
+"names":["define","kernel","declare","domConstruct","connect","domStyle","EnhancedGrid","DojoPagination","Button","Pagination","init","pageLength","grid","declaredClass","isFormGrid","pageSizes","inherited","arguments","initExecOptions","hidePaginator","hidePageSizes","option","newBlocked","newButton","dijit","form","id","newButtonLabel","tabIndexField","create","_paginator","descriptionTd","fautoexec","fisaEditableGridId","onNewExecute","set","sizeSwitchTd","hidePaginationNumber","pageStepperTd","domNode","registerPlugin"]
+}

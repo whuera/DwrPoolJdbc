@@ -1,0 +1,5 @@
+//>>built
+require({cache:{"url:ec/fisa/desktop/widget/templates/OutputText.html":'\x3cdiv\x3e\n\t\x3cdiv id\x3d"${id}_complement" data-dojo-attach-point\x3d"_componentNode"\x3e\x3c/div\x3e\n\x3c/div\x3e\n'}});
+define("ec/fisa/desktop/widget/OutputText",["dijit/_Widget","dijit/_Templated","dojo/_base/declare","dojo/text!ec/fisa/desktop/widget/templates/OutputText.html"],function(a,b,c,d){return c("ec.fisa.desktop.widget.OutputText",[a,b],{readOnly:!0,_componentNode:null,widgetsInTemplate:!1,templateString:d,postCreate:function(){this.inherited(arguments);this.value&&(this._componentNode.innerHTML=this.value)},_setBindingAttr:function(){this._componentNode.set("binding",value)},_getValueAttr:function(){return this._componentNode.innerHTML},
+_setValueAttr:function(a,b,c){this._componentNode.innerHTML=a}})});
+//@ sourceMappingURL=OutputText.js.map

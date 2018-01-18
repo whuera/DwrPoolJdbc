@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"EventActionDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,mIAAiJ,QAAA,CAASC,CAAT,CAAeC,CAAf,QACzIA,EAAA,0CADyI,CAAjJ;",
+"sources":["EventActionDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

@@ -1,0 +1,3 @@
+//>>built
+define("ec/fisa/mobile/widget/Layout","dojo/_base/declare dojox/mobile/ContentPane dojo/_base/kernel dojo/on dojo/dom-style ./_base".split(" "),function(b,c,d,e,a){return b("ec.fisa.mobile.widget.Portlet",[c],{viewType:"",buildRendering:function(){this.inherited(arguments);"ITEM_QUERY_TEMPLATE"==this.viewType&&a.set(this.domNode,"visibility","hidden")},startup:function(){this.inherited(arguments);"ITEM_QUERY_TEMPLATE"==this.viewType&&a.set(this.domNode,"visibility","hidden")}})});
+//@ sourceMappingURL=Layout.js.map

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"UserTabController.js",
+"lineCount":3,
+"mappings":"A,SAAAA,OAAA,SACA,qDADA,s2BAEAC;MAAA,oCAA2C,oNAAA,MAAA,KAA3C,CAYA,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAA8BC,CAA9B,CAAuCC,CAAvC,CAAiDC,CAAjD,CAAuDC,CAAvD,CAAuEC,CAAvE,CAAgGC,CAAhG,QACQL,EAAA,qCAA6CF,CAA7C,CAAsDC,CAAtD,CAAkEI,CAAlE,CAAmFC,CAAnF,aACIE,IAAAC,OAAAC,aADJ,aAEMF,IAAAC,OAAAE,eAFN,qDAKWJ,CALX,SAMEK,QAAAA,GACPC,cAAA,CAAeC,SAAf,CACAX;CAAAY,IAAA,CAAaC,YAAb,iBAFOJ,CANF,EADR,CAZA;",
+"sources":["UserTabController.js.uncompressed.js"],
+"names":["require","define","_Widget","_Templated","declare","domStyle","html","_TemplatedMixin","_WidgetsInTemplateMixin","template","dojo","config","fisaToDosUrl","fisaToDosTitle","startup","inherited","arguments","set","domNode"]
+}

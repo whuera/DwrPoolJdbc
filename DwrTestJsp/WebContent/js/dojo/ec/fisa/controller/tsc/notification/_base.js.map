@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"_base.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,0DAAkE,QAAA,CAASC,CAAT,EACjEA,CAAAC,aADiE,UAE1DD,EAAAC,aAF0D,CAAlE;",
+"sources":["_base.js.uncompressed.js"],
+"names":["define","baseTsc","notification"]
+}

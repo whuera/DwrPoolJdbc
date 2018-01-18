@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"FileInputAutoAutomatic.js",
+"lineCount":3,
+"mappings":"A,SAAAA,MAAA,8CAAqD,4IAAA,MAAA,KAArD,CAUA,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAAwBC,CAAxB,CAA4BC,CAA5B,CAAiCC,CAAjC,CAA2CC,CAA3C,CAAiDC,CAAjD,CAA4DC,CAA5D,QAEoBP,EAAAQ,8CAAsDF,CAAtDE,cAGNC,QAAAA,GACZC,cAAA,CAAeC,SAAf,CACAC,eAAA,EAFYH,CAHMD,SAQXK,QAAAA,IARWL,WAYRI,QAAAA,CAAoBE,CAApBF,GAEPG,UAFOH,IAEOI,aAFPJ,EAEyBK,cAAAC,MAFzBN,IAGVI,aAHUJ,IAIVR,CAAAe,IAAA,CAAaC,mBAAb;OAJUR,CAKVR,CAAAe,IAAA,CAAaE,YAAb,6BALUT,CASVU,eAAA,CAAgBC,kBAAhB,CATUX,CAUVV,CAAAsB,OAAA,OAAkBH,YAAlB,UAAyCI,aAAzC,EAAAC,KAAA,EAVUd,GAYPP,CAAA,MAZOO,EAYWP,CAAA,MAZXO,EAYwBP,CAAA,UAZxBO,EAcTe,CAdSf,CAcEgB,QAAAC,cAAA,kEAdFjB,CAeTe,CAAAG,SAfSlB,yBAoBTe,CApBSf,CAoBEgB,QAAAC,cAAA,QApBFjB,CAqBTe,CAAAI,aAAA,iCArBSnB,CAsBTe,CAAAI,aAAA,0BAtBSnB,EAgBTe,CAAAK,cAhBSpB,SAyBVe,CAAAM,YAAA,CAAqBhB,cAArB,CAzBUL,CA0BVT,CAAA+B,KAAA,EAAAD,YAAA,CAAuBN,CAAvB,CA1BUf;AA2BVL,CAAA4B,KAAA,MACMC,QADN,MAEOT,CAFP,sCAKS1B,CAAAoC,MAAA,oBALT,SAMUC,iBAAA,EANV,EA3BU1B,EAZQJ,EAFpB,CAVA;",
+"sources":["FileInputAutoAutomatic.js.uncompressed.js"],
+"names":["define","declare","lang","fx","win","domStyle","has","FileInput","ioIframe","FileInputAuto","_matchValue","inherited","arguments","_sendFile","_onBlur","e","_sent","_sending","fileInput","value","set","fakeNodeHolder","overlay","setMessage","uploadMessage","fadeIn","duration","play","_newForm","document","createElement","encoding","setAttribute","acceptCharset","appendChild","body","send","url","hitch","onBeforeSend"]
+}

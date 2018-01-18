@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"Dollar.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,0FAAqG,QAAA,CACnGC,CADmG,CAC5FC,CAD4F,EAGpGA,CAAAC,WAHoG,CAGhF,IAAIF,CAAJ,mNAHgF,OAc7FC,EAAAC,WAd6F,CAArG;",
+"sources":["Dollar.js.uncompressed.js"],
+"names":["define","Theme","themes","FisaDollar"]
+}

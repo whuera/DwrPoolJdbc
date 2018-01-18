@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"OutputText.js",
+"lineCount":3,
+"mappings":"A,SAAAA,OAAA,SACA,sDADA,gIAEAC;MAAA,4JACE,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAA8BC,CAA9B,CAAuCC,CAAvC,QAEQD,EAAA,sCAA+CF,CAA/C,CAAwDC,CAAxD,uEAIWE,CAJX,YAKKC,QAAAA,GACVC,cAAA,CAAeC,SAAf,CACGC,WAFOH,GAGTI,mBAAAC,UAHSL,CAGqBG,UAHrBH,EALL,iBAWYM,QAAAA,GACjBF,mBAAAG,IAAA,WAAmCJ,KAAnC,CADiBG,CAXZ,eAcUE,QAAAA,SACRJ,oBAAAC,UADQG,CAdV;cAiBUC,QAAAA,CAASN,CAATM,CAA8BC,CAA9BD,CACdE,CADcF,EAEfL,mBAAAC,UAFeI,CAEeN,CAFfM,CAjBV,EAFR,CADF;",
+"sources":["OutputText.js.uncompressed.js"],
+"names":["require","define","_Widget","_Templated","declare","template","postCreate","inherited","arguments","value","_componentNode","innerHTML","_setBindingAttr","set","_getValueAttr","_setValueAttr","priorityChange","formattedValue"]
+}

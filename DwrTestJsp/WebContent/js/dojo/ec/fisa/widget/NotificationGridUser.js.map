@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"NotificationGridUser.js",
+"lineCount":3,
+"mappings":"A,SAAAA,MAAA,uCAA8C,2OAAA,MAAA,KAA9C,CAWG,QAAA,CAASC,CAAT,CAAeC,CAAf,CAAwBC,CAAxB,CAA8BC,CAA9B,CAAuCC,CAAvC,CAAgDC,CAAhD,CAAiEC,CAAjE,CAA0FC,CAA1F,CAA4GC,CAA5G,CAA+HC,CAA/H,QAEoBR,EAAAS,wCAAgDD,CAAhDC;iCAcVC,QAAAA,GACXC,cAAA,CAAeC,SAAf,CACYC,GAAAC,KAAAC,WAAAC,MAAAC,kBAAAC,CAA2CC,UAA3CD,CAAuDE,gBAAvDF,CACXG,iBAHUX,MAdUD,qBAmBFa,QAAAA,GACnBX,cAAA,CAAeC,SAAf,CAEAW,gBAHmBD,GAInBE,gBAJmBF,EAIAG,aAElBC,eANkBJ,SAMMK,UANNL,kCAMqDM,cANrDN,4BASlBO,WATkBP,CASJ,IAAIT,EAAAC,KAAAgB,IAAAC,MAAJ,wDAEKZ,UAFL,CAGZC,gBAHY;KATIE,CAnBEb,qBAmCFuB,QAAAA,GACPnB,EAAAC,KAAAC,WAAAC,MAAAC,kBAAAC,CAA2CC,UAA3CD,CAAuDE,gBAAvDF,CACZe,qBAAA,EAFmBD,CAnCEvB,SAuCdyB,QAAAA,GACPvB,cAAA,CAAeC,SAAf,CADOsB,CAvCczB,EAFpB,CAXH;",
+"sources":["NotificationGridUser.js.uncompressed.js"],
+"names":["define","dojo","declare","lang","connect","_Widget","_TemplatedMixin","_WidgetsInTemplateMixin","FisaEnhancedGrid","IndirectSelection","EnhancedGrid","NotificationGrid","postCreate","inherited","arguments","ec","fisa","controller","utils","getPageController","ctrlr","tabId","pageScopeId","listUserDataGrid","postMixInProperties","autoHeight","selectable","onlyRead","structure","label","labelRole","store","dwr","Store","execSelectionChange","obtenerSeleccionados","startup"]
+}

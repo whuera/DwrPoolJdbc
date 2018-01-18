@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"MultipleTransfersControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,yJAAuK,QAAA,CAASC,CAAT,CAAeC,CAAf,QAC/JA,EAAA,0DAD+J,CAAvK;",
+"sources":["MultipleTransfersControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

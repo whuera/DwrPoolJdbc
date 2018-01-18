@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"BtControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,2HAAyI,QAAA,CAASC,CAAT,CAAeC,CAAf,QACjIA,EAAA,2CADiI,CAAzI;",
+"sources":["BtControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

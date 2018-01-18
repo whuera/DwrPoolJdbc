@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"SimpleCheckBox.js",
+"lineCount":3,
+"mappings":"A,SAAAA,OAAA,SACA,kDADA,0LAEAC;MAAA,iCACmC,0MAAA,MAAA,KADnC,CAYC,QAAA,CAASC,CAAT,CAAmBC,CAAnB,CAA4BC,CAA5B,CAAqCC,CAArC,CAA8CC,CAA9C,CAA0DC,CAA1D,QACSL,EAAA,kCAA0CG,CAA1C,CAAmDC,CAAnD,uCAEWC,CAFX,uFAOgBC,QAAAA,GACrBC,cAAA,CAAeC,SAAf,CADqBF,OAElBG,aAFkBH;CAGpBI,cAHoBJ,CAGHG,aAHGH,EAPhB,SAcGK,QAAAA,GACRJ,cAAA,CAAeC,SAAf,CACAI,oBAAAC,KAFQF,MAdH,eAkBSG,QAAAA,CAA4BC,CAA5BD,CAAkDE,CAAlDF,aACXC,CADWD,QACcC,CADdD,MACkCC,CADlCD,CAEbC,CAFaD,GAIdF,oBAAAK,IAAA,WAAkCF,CAAlC,CAA2CC,CAA3C,CAJcF,CAlBT,eAwBSI,QAAAA,SACPN,oBAAAO,QADOD,CAxBT,iBA2BUE,QAAAA,CAASC,CAATD,QACZC,CADYD,GAEXC,CAFWD,CAGbE,EAAAC,KAAAC,OAAAC,MAAAC,aAAA,CAAkCd,mBAAlC,CAHaQ,CAKbE,EAAAC,KAAAC,OAAAC,MAAAE,cAAA,CAAmCf,mBAAnC,CALaQ,EA3BV,iBAoCUQ,QAAAA,SACRN,GAAAC,KAAAC,OAAAC,MAAAI,UAAA,CAA+BjB,mBAA/B,CADQgB,CApCV,EADT,CAZD;",
+"sources":["SimpleCheckBox.js.uncompressed.js"],
+"names":["require","define","declare","domAttr","dojoOn","_Widget","_Templated","template","postMixInProperties","inherited","arguments","tabIndex","_tabIndex","startup","_componentNode","node","_setValueAttr","newValue","priorityChange","set","_getValueAttr","checked","_setEnabledAttr","value","ec","fisa","widget","utils","enableWidget","disableWidget","_getEnabledAttr","isEnabled"]
+}

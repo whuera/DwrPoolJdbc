@@ -1,0 +1,4 @@
+//>>built
+define("ec/fisa/controller/tsc/MenuController","dojo/_base/kernel dojo/_base/declare dojo/_base/lang ec/fisa/controller/BaseController ec/fisa/format/Utils dojo/_base/window dojo/dom dojox/mvc dojox/mvc/StatefulModel dojox/lang/functional/object dojo/store/Memory dojo/data/ItemFileReadStore dojo/date/locale ec/fisa/navigation/Utils ec/fisa/dwr/Store dojox/widget/DialogSimple".split(" "),function(c,a,d,b,e,f,g,h,k,l){return a("ec.fisa.controller.tsc.MenuController",b,{tabContainerId:null,controllerList:null,
+data:null,tabId:null,pageScopeId:null,model:null,cmps:null,constructor:function(a,b){this.tabId=a;this.pageScopeId=b;this.model={};this.cmps={}}})});
+//@ sourceMappingURL=MenuController.js.map

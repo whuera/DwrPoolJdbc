@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"ThumbnailPicker.js",
+"lineCount":4,
+"mappings":"A,SAAAA,OAAA,SACA,mDADA,+7BAEAC;MAAA,kCACoC,uKAAA,MAAA,KADpC,CASE,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAAwBC,CAAxB,CAAsCC,CAAtC,CAAsDC,CAAtD,QAEQJ,EAAA,mCAA4CG,CAA5C,6DAIUC,CAJV,gBAKSC,QAAAA,GACdC,cAAA,CAAeC,SAAf,CASAC,kBAAA,CAAkB,IAAIC,EAAAC,KAAAC,IAAAC,MAAJ,2CAAgEC,UAAhE,CAA2EC,gBAA3E;CAA6FA,gBAA7F,OAAlB,qEACAC,eAAA,CAAeC,sBAAA,EAAf,CAAyCC,cAAzC,CAXcZ,CALT,SAkBEa,QAAAA,UACAC,iBACPb,eAAA,CAAeC,SAAf,CAFOW,CAlBF,WAsBID,QAAAA,CAASG,CAATH,EACTI,kBAAAC,UADSL,GAETf,EAAAqB,OAAA,YAA+BH,CAAAI,SAA/B,oBAAgEH,kBAAhE,CACAI,gBAHSR,CAGOG,CAAAM,KACTC,eAAA,EAAAA,UAAA,EAAAC,YAAA,EAAA,GAAAC,QAAAC,kBAAAA,kBAAAA,kBACEC,MAAA,GAAAD,kBACTE,IANSf;AAMDG,CAAAI,SANCP,CAtBJ,EAFR,CATF;",
+"sources":["ThumbnailPicker.js.uncompressed.js"],
+"names":["require","define","declare","dojo","domConstruct","ThumbnailPicker","template","buildRendering","inherited","arguments","setDataStore","ec","fisa","dwr","Store","tabId","pageScopeId","subscribe","getClickTopicName","selectOne","destroy","selectedNode","item","_selectedNode","innerHTML","create","largeUrl","selectedId","data","getParent","getChildren","domNode","firstElementChild","cells","src"]
+}

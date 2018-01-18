@@ -1,0 +1,3 @@
+//>>built
+define("ec/fisa/widget/tsc/Selector",["dojo/dnd/Selector","dojo/_base/declare","dojo/_base/event","dojo/dom-attr","./_base"],function(a,b,c,d){return b("ec.fisa.widget.tsc.Selector",[a],{getAllNodes:function(){return dojo.query(".dojoDndItem",this.parent)},startup:function(){this.parent||(this.parent=this.node);this.defaultCreator=dojo.dnd._defaultCreator(this.parent);this.sync()}})});
+//@ sourceMappingURL=Selector.js.map

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"ConfirmDialog.js",
+"lineCount":3,
+"mappings":"A,SAAAA,OAAA,SACA,wDADA,kqBAEAC;MAAA,uCAA+C,kIAAA,MAAA,KAA/C,CACE,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAA8BC,CAA9B,CAAsCC,CAAtC,QAEQD,EAAA,wCAAiDF,CAAjD,CAA0DC,CAA1D,uCAEWE,CAFX,gJAWOC,QAAAA,IAXP,cAcOC,QAAAA,IAdP,qBAiBcC,QAAAA,GACnBC,cAAA,CAAeC,SAAf,CADmBF,CAjBd;QAoBEG,QAAAA,GACPF,cAAA,CAAeC,SAAf,CADOC,CApBF,gBAuBSC,QAAAA,GACdH,cAAA,CAAeC,SAAf,CAEGG,yBAHWD,CAIbE,eAAAC,QAAAC,MAAAC,QAJaL,QAObE,eAAAI,QAPaN,CAOWL,iBAGzBY,gBAAAD,QAVcN,CAUUN,iBAVVM,CAvBT,MAmCDQ,QAAAA,GACJC,YAAAD,KAAA,EADIA,CAnCC,MAsCDE,QAAAA,GACJD,YAAAC,KAAA,EADIA,CAtCC,SAyCEC,QAAAA,SACJF,YADIE,EAENF,YAAAE,QAAA,CAAqBb,SAArB,CAEDD,eAAA,CAAeC,SAAf,CAJOa,CAzCF,EAFR,CADF;",
+"sources":["ConfirmDialog.js.uncompressed.js"],
+"names":["require","define","_Widget","_Templated","declare","template","acceptAction","cancelAction","postMixInProperties","inherited","arguments","startup","buildRendering","disableCancelButton","_cancelBtn","domNode","style","display","onClick","_acceptBtn","show","_dialog","hide","destroy"]
+}

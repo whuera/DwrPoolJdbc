@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"KeyboardControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,mJAAiK,QAAA,CAASC,CAAT,CAAeC,CAAf,QACzJA,EAAA,0DADyJ,CAAjK;",
+"sources":["KeyboardControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

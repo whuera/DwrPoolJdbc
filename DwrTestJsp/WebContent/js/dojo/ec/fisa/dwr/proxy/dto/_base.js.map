@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"_base.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,2DAAmE,QAAA,CAASC,CAAT,EAClEA,CAAAC,IADkE,UAE3DD,EAAAC,IAF2D,CAAnE;",
+"sources":["_base.js.uncompressed.js"],
+"names":["define","fisaBaseController","dto"]
+}

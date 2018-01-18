@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"Portlet.js",
+"lineCount":2,
+"mappings":"A,SAAAA,MAAA,0BAAkC,0FAAA,MAAA,KAAlC,CAOC,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAA0BC,CAA1B,CAA+BC,CAA/B,CAAkCC,CAAlC,QAIOJ,EAAA,2BAAkCC,CAAlC,kDAGSI,QAAAA,GACdC,cAAA,CAAeC,SAAf,CADcF,wBAEXG,aAFWH,OAEuCI,mBAFvCJ,EAGbD,CAAAM,IAAA,CAAaC,YAAb,uBAHaN,CAHT,SASEO,QAAAA,GACPN,cAAA,CAAeC,SAAf,CADOK,wBAEJJ,aAFII,OAE8CH,mBAF9CG,EAGNR,CAAAM,IAAA,CAAaC,YAAb;sBAHMC,CATF,EAJP,CAPD;",
+"sources":["Portlet.js.uncompressed.js"],
+"names":["define","declare","Portlet","dojo","on","domStyle","buildRendering","inherited","arguments","viewType","qtIsForGrapics","set","domNode","startup"]
+}

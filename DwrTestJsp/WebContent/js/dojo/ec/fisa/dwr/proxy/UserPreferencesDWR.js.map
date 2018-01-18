@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"UserPreferencesDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,iIAA+I,QAAA,CAASC,CAAT,CAAeC,CAAf,QACvIA,EAAA,8CADuI,CAA/I;",
+"sources":["UserPreferencesDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

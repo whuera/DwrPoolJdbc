@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"_AlignHeaderView.js",
+"lineCount":2,
+"mappings":"A,SAAAA,MAAA,uGAIG,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAAwBC,CAAxB,QAEKF,EAAA,kCAA0CE,CAA1C,qBACaC,QAAAA,CAASC,CAATD,MACdE,EAAID,CAAAE,KAAJD,EAAmBD,CAAAG,KAAAC,YAAA,CAAwBJ,CAAxB,CACpBK,aAAA,CAAaJ,CAAb,CAFeF,GAGjBE,CAHiBF,kBAKdO,MALcP,CAOjBO,EADEN,CAAAO,YACFD,sBAAmBN,CAAAO,YAAnBD,sEAPiBP,CAWdS,GAAQF,CAARE,CAEDR,EAAAS,MAbeV,EAaCC,CAAAG,KAAAO,aAAA,EAbDX,CAcjBS,CAAAG,KAAA,SAdiBZ,CAgBjBS,CAhBiBT,CAgBXS,CAAAI,OAAA,QACaZ,CAAAG,KAAAU,SADb;6EAGeb,CAAAG,KAAAU,SAHf,0KAOPL,EAvBkBT,CAuBZS,CAAAI,OAAA,EAAYX,CAAZ,6BAvBYF,OAwBXS,EAAAM,KAAA,IAxBWf,CADb,EAFL,CAJH;",
+"sources":["_AlignHeaderView.js.uncompressed.js"],
+"names":["define","declare","util","_View","_getHeaderContent","inCell","n","name","grid","getCellName","test","tag","headerstyle","ret","index","getSortIndex","push","concat","sortInfo","join"]
+}

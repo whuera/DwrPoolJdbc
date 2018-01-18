@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"MachineValidatorControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,mKAAiL,QAAA,CAASC,CAAT,CAAeC,CAAf,QACzKA,EAAA,kEADyK,CAAjL;",
+"sources":["MachineValidatorControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

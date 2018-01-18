@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"MenuController.js",
+"lineCount":2,
+"mappings":"A,SAAAA,MAAA,yCAC2C,2UAAA,MAAA,KAD3C,CASE,QAAA,CAASC,CAAT,CAAeC,CAAf,CAAwBC,CAAxB,CAA8BC,CAA9B,CAA8CC,CAA9C,CAA0DC,CAA1D,CAA+DC,CAA/D,CAAoEC,CAApE,CACEC,CADF,CACiBC,CADjB,QAEsBR,EAAAS,yCAEnBP,CAFmBO;uEAaJC,QAAAA,CAASC,CAATD,CAAgBE,CAAhBF,EACbC,UADaD,CACAC,CACbC,iBAFaF,CAEME,CACnBC,WAHaH,GAITI,UAJSJ,IAbID,EAFtB,CATF;",
+"sources":["MenuController.js.uncompressed.js"],
+"names":["define","dojo","declare","lang","BaseController","formatUtils","win","dom","mvc","StatefulModel","FisaUtils","MenuController","constructor","tabId","pageScopeId","model","cmps"]
+}

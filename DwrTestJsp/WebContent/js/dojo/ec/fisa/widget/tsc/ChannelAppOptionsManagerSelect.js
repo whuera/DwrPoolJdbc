@@ -1,0 +1,3 @@
+//>>built
+define("ec/fisa/widget/tsc/ChannelAppOptionsManagerSelect",["dojo/_base/declare","dojo/_base/kernel","dijit/form/Select","ec/fisa/controller/Utils","./_base"],function(a,c,b){return a("ec.fisa.widget.tsc.ChannelAppOptionsManagerSelect",[b],{tabId:"",pageScopeId:"",postCreate:function(){this.inherited(arguments);ec.fisa.controller.utils.getPageController(this.tabId,this.pageScopeId).setChannelComboId(this.id)}})});
+//@ sourceMappingURL=ChannelAppOptionsManagerSelect.js.map

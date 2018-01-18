@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"TaskCriteria.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,oHAAkI,QAAA,CAASC,CAAT,CAAeC,CAAf,QAC1HA,EAAA,4CAD0H,CAAlI;",
+"sources":["TaskCriteria.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

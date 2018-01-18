@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"GroupTransactionControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,gLAA+L,QAAA,CAASC,CAAT,CAAeC,CAAf,QACvLA,EAAA,qEADuL,CAA/L;",
+"sources":["GroupTransactionControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

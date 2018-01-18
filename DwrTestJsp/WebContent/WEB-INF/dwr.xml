@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dwr PUBLIC "-//GetAhead Limited//DTD Direct Web Remoting 3.0//EN" "http://getahead.org/dwr/dwr30.dtd">
+
+<dwr>
+
+  <allow>
+
+
+    <!-- intro - for the test on index.html -->
+    <create creator="new">
+      <param name="class" value="com.example.dwr.simple.Intro"/>
+    </create>
+
+    <!-- chat -->
+    <create creator="new" scope="application">
+      <param name="class" value="com.example.dwr.reverseajax.JavascriptChat"/>
+    </create>
+    <create creator="new" scope="application">
+      <param name="class" value="com.example.dwr.reverseajax.JavaChat"/>
+    </create>
+    <convert converter="bean" match="com.example.dwr.reverseajax.Message"/>
+
+    <!-- clock -->
+    <create creator="new" scope="application">
+      <param name="class" value="com.example.dwr.reverseajax.Clock"/>
+    </create>
+    
+    <create creator="new" scope="application">
+      <param name="class" value="com.example.dwr.reverseajax.PeopleTable"/>
+    </create>
+
+    <!-- people -->
+    <create creator="new" scope="application">
+      <param name="class" value="ec.com.app.people.People"/>
+    </create>
+    <convert match="ec.com.app.model.Person" converter="bean"/>
+    <convert match="ec.com.app.model.Address" converter="bean"/>
+
+    <!-- simple text -->
+    <create creator="new">
+    <!--  
+      <param name="class" value="com.example.dwr.simple.Demo"/>
+      -->
+      <param name="class" value="ec.com.app.model.Demo"/>
+    </create>
+    
+    
+
+    <!-- resources not in this war file: java.util.Date -->
+    <create creator="new" javascript="JDate">
+      <param name="class" value="java.util.Date"/>
+      <exclude method="getHours"/>
+      <auth method="getMinutes" role="admin"/>
+      <auth method="getMinutes" role="devel"/>
+      <filter class="org.directwebremoting.filter.ExtraLatencyAjaxFilter"/>
+    </create>
+
+
+    
+    <create creator="new" javascript="DWRCall" scope="session">
+ <param name="class" value="ec.com.app.controller.DWRCall"/>
+ </create>
+    
+    <!-- file upload and download -->
+    <create creator="new">
+      <param name="class" value="com.example.dwr.simple.UploadDownload"/>
+    </create>
+
+    <!-- this is a bad idea for live, but can be useful in testing -->
+    <convert converter="exception" match="java.lang.Exception"/>
+    <convert converter="bean" match="java.lang.StackTraceElement"/>
+    <convert match="java.lang.Exception" converter="exception"/>
+
+  </allow>
+
+</dwr>

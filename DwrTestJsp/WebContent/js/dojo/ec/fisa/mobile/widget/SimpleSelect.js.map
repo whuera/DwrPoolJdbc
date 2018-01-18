@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"SimpleSelect.js",
+"lineCount":3,
+"mappings":"A,SAAAA,OAAA,SACA,uDADA,sNAEAC;MAAA,sCAA8C,0JAAA,MAAA,KAA9C,CAQE,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAA6BC,CAA7B,CAAsCC,CAAtC,CAAoDC,CAApD,CAA4DC,CAA5D,QAEQD,EAAA,uCAAgDJ,CAAhD,CAAyDC,CAAzD,CAAoEI,CAApE,oDAGWH,CAHX,qBAIeI,QAAAA,GACpBC,cAAA,CAAeC,SAAf,CACAC,aAFoBH,CAELI,IAAAC,SAAA,CAAcF,YAAd,CAFKH,CAJf,SASGM,QAAAA,GACRL,cAAA,CAAeC,SAAf,CACAK,qBAAA,EAFQD,CATH;eAcSE,QAAAA,GACdP,cAAA,CAAeC,SAAf,CACAO,qBAAA,EACAC,aAAA,CAAaC,mBAAb,YAA4CC,aAA5C,CAHcJ,CAdT,iBAoBYC,QAAAA,CAASN,CAATM,EACjBN,YADiBM,CACJN,CADIM,EACKN,YACtBQ,oBAAAE,UAFiBJ,GAGdN,aAHcM,EAIhBL,IAAAU,QAAA,CAAaX,YAAb,CAA0B,QAAA,CAASY,CAAT,EACdlB,CAAAmB,OAAAC,iBAAsCF,CAAAG,MAAtCD,EAAiDN,mBAAjDM,CACXE,KAFyB,CAEfJ,CAAAK,MAFe,CAA1B,MAJgBX,CApBZ,eA+BUY,QAAAA,SACRV,oBAAAO,MADQG,CA/BV,eAmCUC,QAAAA,CAASJ,CAATI,CAA8BC,CAA9BD,CACdE,CADcF,EAEfX,mBAAAO,MAFeI,CAEWJ,CAFXI,CAnCV,UAwCIV,QAAAA,IAxCJ,EAFR,CARF;",
+"sources":["SimpleSelect.js.uncompressed.js"],
+"names":["require","define","_Widget","_Templated","template","domConstruct","declare","MvcMixin","postMixInProperties","inherited","arguments","options","dojo","fromJson","startup","addParamToModel","buildRendering","_setOptionsAttr","connect","_componentNode","onChange","innerHTML","forEach","opt","create","opt1","value","text","label","_getValueAttr","_setValueAttr","priorityChange","formattedValue"]
+}

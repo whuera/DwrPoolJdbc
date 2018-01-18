@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"DialogSimple.js",
+"lineCount":3,
+"mappings":"A,SAAAA,MAAA,+BAAsC,sHAAA,MAAA,KAAtC,CAM2B,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAAgCC,CAAhC,CAAyCC,CAAzC,CAA8CC,CAA9C,CAAiDC,CAAjD,CAAwDC,CAAxD,EAEtBC,CAFsB,CAEHP,CAAA,gCAAwCC,CAAxC,qCAEVO,QAAAA,CAASC,CAATD,EACXE,cAAA,CAAeC,SAAf,CACAC,sBAFWJ,CAEaC,CAAAG,iBAFbJ,CAFU,MAMjBK,QAAAA,MASAC,wBATAD,EAS6BE,SAT7BF,EAYDG,oBAZCH,EAaHG,oBAAAC,OAAA,EAbGJ,KAiBAK,CAEJC,sBAnBIN,CAmBoB,IAAIX,CAAJ,CAAaC,CAAAiB,MAAA,MAAiB,QAAA,GACrDF,CAAAG,KAAA,EADqD;OAE9CF,qBAF8C,CAAjB,CAAb,CAMxBA,sBAAAG,KAAA,CAA2BnB,CAAAiB,MAAA,eAA3B,CAzBIP,KA4BAU,EAAUJ,qBAAAI,QA5BVV,OA8BDW,YA9BCX,EA8BuBW,YA9BvBX,GAgCHK,CAhCGL,CAgCOT,CAAAc,QAAA,OACHM,YADG,UAECC,aAFD,OAGFtB,CAAAiB,MAAA,MAAiB,QAAA,GACvBI,YAAAE,MAAAC,QADuB,OAEvBC,EAAAf,KAAA,MACAM,sBAAAU,QAAA,IAHuB,QAIhBV,qBAJgB,CAAjB,CAHE,EAAAW,KAAA,EAhCPjB,CA4CDkB,sBA5CClB,GA6CHkB,qBA7CGlB,aA+CAmB,CA/CAnB,CAgDEmB,CAhDFnB,CAgDMoB,mBAAAC,IAAA,EAhDNrB,EAiDHmB,CAAAG,OAAA,EAGEC,uBApDCvB,SAqDIuB,sBAERC;SAAA,WAvDIxB,OAyDGU,EAzDHV,EANiB,SAiEdyB,QAAAA,GACP5B,cAAA,CAAeC,SAAf,CADO2B,MAEJ1B,qBAFI0B,EAGNhC,CAAAiC,IAAA,CAAaC,aAAb,kBAHMF,CAjEc,EAFG,KA2EtBV,EAAqBvB,CAAAoC,oBA3EC,OA4EnBlC,EA5EmB,CAN3B;",
+"sources":["DialogSimple.js.uncompressed.js"],
+"names":["define","declare","DialogSimple","Deferred","lang","fx","Dialog","domStyle","FisaDialogSimple","constructor","initData","inherited","arguments","hideTitleBarNode","hide","_alreadyInitialized","open","_fadeInDeferred","cancel","fadeOut","_fadeOutDeferred","hitch","stop","then","promise","domNode","duration","style","display","DialogLevelManager","resolve","play","_scrollConnected","h","_modalconnects","pop","remove","_relativePosition","_set","startup","set","titleBar","_DialogLevelManager"]
+}

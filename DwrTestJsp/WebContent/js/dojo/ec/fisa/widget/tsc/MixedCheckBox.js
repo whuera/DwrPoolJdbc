@@ -1,0 +1,4 @@
+//>>built
+define("ec/fisa/widget/tsc/MixedCheckBox",["dijit/form/CheckBox","dojo/_base/declare","dojo/_base/event","dojo/dom-attr","./_base"],function(f,g,h,c){return g("ec.fisa.widget.tsc.MixedCheckBox",[f],{baseClass:"cbcheckBox",multiState:!0,_getCheckedAttr:function(){return this.checked},_onClick:function(a){return!this.readOnly&&!this.disabled?(this.toggle(),this.onClick(a)):h.stop(a)},_setCheckedAttr:function(a,d){var b=a,e;if("mixed"!==b||!this.multiState)b=b?!0:!1;e="mixed"==b?b:b?"true":"false";this._set("checked",
+b);c.set(this.focusNode||this.domNode,"checked",b);(this.focusNode||this.domNode).setAttribute("aria-checked",e);this._handleOnChange(b,d);return b},_setValueAttr:function(a,d){"string"==typeof a&&(this.value=a,c.set(this.focusNode,"value",a))},toggle:function(){var a=this.get("checked");return!this.readOnly&&!this.disabled?this._setCheckedAttr("mixed"==a?!0:!a):a}})});
+//@ sourceMappingURL=MixedCheckBox.js.map

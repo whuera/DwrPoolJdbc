@@ -1,0 +1,5 @@
+//>>built
+define("ec/fisa/controller/mobile/BaseController",["dojo/_base/kernel","dojo/_base/declare","./_base"],function(e,d,f){return d("ec.fisa.mobile.BaseControler",null,{messagesPanelId:null,penddingMessages:null,isLastBt:null,bindingForm:null,constructor:function(){},obtainInitialValue:function(a){var b=a["bt-id"];a=a["field-id"];var c=null;this.data&&(this.data[b]&&this.data[b].dataMessage)&&(c=this.data[b].dataMessage.fields[a]);return null==c||null==c.value?"":c.value},setPenddingMessages:function(a){this.penddingMessages=
+a},setMessagesPanel:function(a){this.messagesPanelId=a.id;null!=this.penddingMessages&&this.updateMsgsPanel(this.penddingMessages)},updateMsgsPanel:function(a){if(a){var b=dijit.byId(this.messagesPanelId);b.isLastBt=this.isLastBt;b&&(console.log(a),b.update(a,this.isComponentMsg,this.addComponentMsg,this))}},clearPanelMessage:function(){this.messagesPanelId&&dijit.byId(this.messagesPanelId).clearAllMessages()},isComponentMsg:function(a){return!1},addComponentMsg:function(a){},errorHandler:function(a,
+b){console.log("msg",a);console.log("ex",a)}})});
+//@ sourceMappingURL=BaseController.js.map

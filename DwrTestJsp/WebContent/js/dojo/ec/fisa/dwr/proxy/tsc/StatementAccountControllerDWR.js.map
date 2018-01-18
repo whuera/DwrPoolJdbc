@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"StatementAccountControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,sKAAqL,QAAA,CAASC,CAAT,CAAeC,CAAf,QAC7KA,EAAA,6DAD6K,CAArL;",
+"sources":["StatementAccountControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

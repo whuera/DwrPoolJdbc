@@ -1,0 +1,4 @@
+//>>built
+define("ec/fisa/controller/custom/PasswordExpirationController","dojo/_base/kernel dojo/_base/declare dojo/_base/lang ./_base ec/fisa/controller/BaseController dojox/mvc dojox/mvc/StatefulModel dojo/store/DataStore dojo/data/ObjectStore dojo/store/Memory".split(" "),function(b,c,e,f,d,g,h,k,l,m){return c("ec.fisa.controller.custom.PasswordExpirationController",[d],{tabId:null,pageScopeId:null,constructor:function(a,b){this.tabId=a;this.pageScopeId=b},doMethod:function(a){a={callbackScope:this,callback:this.submitAction,
+errorHandler:b.hitch(this,this.errorHandler)};PasswordExpirationControllerDWR.doAction(this.o.value,this.n.value,this.c.value,a)},submitAction:function(a){dijit.byId(this.messagesPanelId).clearAllMessages();this.updateMsgsPanel(a.aMsgs);a.dst&&document.location.reload(!0)}})});
+//@ sourceMappingURL=PasswordExpirationController.js.map

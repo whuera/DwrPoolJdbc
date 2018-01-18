@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"AuthorizationRuleControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,0KAAyL,QAAA,CAASC,CAAT,CAAeC,CAAf,QACjLA,EAAA,8DADiL,CAAzL;",
+"sources":["AuthorizationRuleControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

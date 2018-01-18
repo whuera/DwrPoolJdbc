@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"_base.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,+DAAuE,QAAA,CAASC,CAAT,EACtEA,CAAAC,cADsE,UAE/DD,EAAAC,cAF+D,CAAvE;",
+"sources":["_base.js.uncompressed.js"],
+"names":["define","baseController","authorization"]
+}

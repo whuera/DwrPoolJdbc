@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"UserTransactionControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,8KAA6L,QAAA,CAASC,CAAT,CAAeC,CAAf,QACrLA,EAAA,oEADqL,CAA7L;",
+"sources":["UserTransactionControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

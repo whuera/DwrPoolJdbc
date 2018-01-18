@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"TokenValidatorControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,yKAAwL,QAAA,CAASC,CAAT,CAAeC,CAAf,CAAwBC,CAAxB,QAChLD,EAAA,gEADgL,CAAxL;",
+"sources":["TokenValidatorControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare","baseController"]
+}

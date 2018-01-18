@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"TaskVO.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,wGAAsH,QAAA,CAASC,CAAT,CAAeC,CAAf,QAC9GA,EAAA,sCAD8G,CAAtH;",
+"sources":["TaskVO.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"_base.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,6DAAqE,QAAA,CAASC,CAAT,EACpEA,CAAAC,YADoE,UAEpEC,GAAAF,KAAAG,OAAAF,YAFoE,CAEzCD,CAAAC,YAFyC,CAArE;",
+"sources":["_base.js.uncompressed.js"],
+"names":["define","fisa","transaction","ec","widget"]
+}

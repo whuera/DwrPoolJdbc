@@ -1,0 +1,4 @@
+//>>built
+define("ec/fisa/grid/TranslatorMappingGrid",["dojo/_base/kernel","dojo/_base/declare","dojox/grid/EnhancedGrid","./_base"],function(a,b,c){a.experimental("ec.fisa.grid.TranslatorMappingGrid");return b("ec.fisa.grid.TranslatorMappingGrid",c,{actionId:null,tabId:null,pageScopeId:null,postMixInProperties:function(){this.inherited(arguments);this.setGridPlugin()},setGridPlugin:function(){this.actionId=ec.fisa.controller.utils.getPageController(this.tabId,this.pageScopeId).actionId;this.plugins={pagination:{pageSizes:[10,
+"All"],description:!0,sizeSwitch:!0,pageStepper:!0,gotoButton:!0,maxPageStep:4,position:"top"},indirectSelection:"IN"==this.actionId||"UP"==this.actionId?{headerSelector:!0,width:"10%",styles:"text-align: center;"}:!1}}})});
+//@ sourceMappingURL=TranslatorMappingGrid.js.map

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"AgendaMobileControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,+IAA6J,QAAA,CAASC,CAAT,CAAeC,CAAf,QACrJA,EAAA,qDADqJ,CAA7J;",
+"sources":["AgendaMobileControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

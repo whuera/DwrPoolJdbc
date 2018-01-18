@@ -1,0 +1,5 @@
+//>>built
+define("ec/fisa/grid/FisaCustomGrid","dojo/_base/kernel dojo/_base/declare dijit/_Widget dijit/_TemplatedMixin ec/fisa/grid/EnhancedGrid dijit/form/Button ec/fisa/dwr/Store ec/fisa/grid/enhanced/plugins/QtPagination dojox/grid/enhanced/plugins/IndirectSelection ./_base".split(" "),function(b,c,f,g,d,h,e,k,l,m){return c("ec.fisa.grid.FisaCustomGrid",[d],{tabId:"",pageScopeId:"",controller:"",toExecute:"",captureSelection:!1,postMixInProperties:function(){this.inherited(arguments);var a={indirectSelection:!0,
+headerSelector:!1,width:"105px",name:this.selectButtonLabel,styles:"text-align: center;"};this.captureSelection&&b.connect(this,"onSelected",this.onSelection);this.plugins={fisaQtPagination:{showAddButton:!1,islov:!1},indirectSelection:a};this.selectionMode="single";this.store=new e(this.controller,this.toExecute,this.tabId,this.qtId,[this.pageScopeId],null);this.store.callbackScope=ec.fisa.controller.utils.getPageController(this.tabId,this.pageScopeId)},onSelection:function(a){ec.fisa.controller.utils.getPageController(this.tabId,
+this.pageScopeId).createAuthenticationPanel(a)}})});
+//@ sourceMappingURL=FisaCustomGrid.js.map

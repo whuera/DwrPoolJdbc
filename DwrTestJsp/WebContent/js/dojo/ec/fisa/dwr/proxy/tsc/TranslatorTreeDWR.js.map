@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"TranslatorTreeDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,6JAA4K,QAAA,CAASC,CAAT,CAAeC,CAAf,QACpKA,EAAA,iDADoK,CAA5K;",
+"sources":["TranslatorTreeDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

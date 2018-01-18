@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"ConfirmationPanel.js",
+"lineCount":3,
+"mappings":"A,SAAAA,OAAA,SACA,6DADA,6JAEAC;MAAA,4CAAmD,mNAAA,MAAA,KAAnD,CAWI,QAAA,CAASC,CAAT,CAAoBC,CAApB,CAA6BC,CAA7B,CAAyCC,CAAzC,CAAkDC,CAAlD,CAA2DC,CAA3D,CAAwEC,CAAxE,CAAkFC,CAAlF,CAA2FC,CAA3F,CAA+FC,CAA/F,QAEKN,EAAA,6CAAqDF,CAArD,CAA8DC,CAA9D,mJAUUI,CAVV;YAWMI,QAAAA,GACXC,aADWD,GAGXE,WAHWF,CAEXG,iBAFWH,GAXN,gBAiBSI,QAAAA,GACdC,cAAA,CAAeC,SAAf,CADcF,CAjBT,kBAqBWG,QAAAA,GAChBL,UADgBK,GAEhBJ,kBAFgBI,UAGTC,oBAHSD,CArBX,SA2BEE,QAAAA,GACPJ,cAAA,CAAeC,SAAf,CACGI,sBAFID,EAGNE,EAAAC,KAAAC,WAAAC,MAAAC,kBAAA,CAA2CC,UAA3C,CAAsDC,gBAAtD,CAAAC,iBAAA,MAHMT,CA3BF,EAFL,CAXJ;",
+"sources":["ConfirmationPanel.js.uncompressed.js"],
+"names":["require","define","_panelBase","_Widget","_Templated","declare","connect","domConstruct","template","domAttr","on","SimpleDialog","constructor","_fisaOns","errorAdded","_msgQuantity","buildRendering","inherited","arguments","destroyRendering","_parentPanelCnt","startup","bindToController","ec","fisa","controller","utils","getPageController","tabId","pageScopeId","setMessagesPanel"]
+}

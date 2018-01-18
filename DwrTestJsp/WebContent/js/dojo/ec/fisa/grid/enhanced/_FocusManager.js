@@ -1,0 +1,4 @@
+//>>built
+define("ec/fisa/grid/enhanced/_FocusManager","dojo/_base/kernel dojo/_base/lang dojo/_base/declare dojo/_base/array dojo/_base/connect dojox/grid/enhanced/_FocusManager".split(" "),function(g,b,c,d,e,f){return c("ec.fisa.grid.enhanced._FocusManager",f,{_delayedHeaderFocus:function(){},_delayedCellFocus:function(){},initFocusView:function(){this.focusView=this.grid.views.getFirstScrollingView()||this.focusView||this.grid.views.views[0];this.grid.fisaEditableGrid||this._bindAreaEvents()},addArea:function(a){a.name&&
+b.isString(a.name)&&(this._areas[a.name]&&d.forEach(a._connects,e.disconnect),this._areas[a.name]=new dojox.grid.enhanced._FocusArea(a,this),a.onHeaderMouseEvent&&this._headerMouseEventHandlers.push(a.name),this.grid.fisaEditableGrid||a.onContentMouseEvent&&this._contentMouseEventHandlers.push(a.name))}})});
+//@ sourceMappingURL=_FocusManager.js.map

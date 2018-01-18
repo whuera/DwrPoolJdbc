@@ -1,0 +1,3 @@
+//>>built
+define("ec/fisa/charting/themes/Dollar",["dojox/charting/Theme","dojox/charting/themes/common"],function(b,a){a.FisaDollar=new b({colors:["#A4CE67","#739363","#6B824A","#343434","#636563"],axis:{font:"normal normal normal 7pt Helvetica,Arial,sans-serif",tick:{font:"normal normal normal 7pt Helvetica,Arial,sans-serif",fontColor:"#999"}}});return a.FisaDollar});
+//@ sourceMappingURL=Dollar.js.map

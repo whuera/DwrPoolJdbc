@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"UserRolAdminControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,gKAA+K,QAAA,CAASC,CAAT,CAAeC,CAAf,QACvKA,EAAA,yDADuK,CAA/K;",
+"sources":["UserRolAdminControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

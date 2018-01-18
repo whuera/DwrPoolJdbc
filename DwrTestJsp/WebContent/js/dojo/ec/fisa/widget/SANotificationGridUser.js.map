@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"SANotificationGridUser.js",
+"lineCount":3,
+"mappings":"A,SAAAA,MAAA,yCAAgD,yLAAA,MAAA,KAAhD,CAUG,QAAA,CAASC,CAAT,CAAeC,CAAf,CAAwBC,CAAxB,CAA8BC,CAA9B,CAAuCC,CAAvC,CAAgDC,CAAhD,CAAiEC,CAAjE,CAA0FC,CAA1F,CAA4GC,CAA5G,QAE0BP,EAAAQ,0CAAkDF,CAAlDE;gEAcRC,QAAAA,GACnBC,cAAA,CAAeC,SAAf,CACAC,gBAFmBH,GAGPI,GAAAC,KAAAC,WAAAC,MAAAC,kBAAA,CAA2CC,UAA3C,CAAuDC,gBAAvD,CAHOV,KAIfW,IAJeX,CAKfY,QAAWC,sBAAXD,oEAAwGE,QAAAA,CAASC,CAATD,CAAeE,CAAfF,CAAyBG,CAAzBH,EACvGI,CADuGJ,CACrGC,CAAAI,MAAA,KACFC,EAFuGN,mBAEzFI,CAAA,GAFyFJ,MAEpEI,CAAA,GAFoEJ,KAE3DI,CAAA,GAF2DJ,CAGxGG,EAAAI,UAHwGP,GAI1GM,CAAA,SAJ0GN,IAMvGQ,EANuGR,CAMpG,IAAIhB,CAAJ,CAAasB,CAAb,CACPH,EAAAM,KAAAC,WAAAC,KAAA,CAA4BH,CAAAI,GAA5B,CAP2GZ,OAQpGQ,EARoGR,CAAxGF,CAUDe,cAfgB3B,CAgBlBY,CAAA,UAhBkBZ,IAkBlBwB,eAlBkBxB,GAoBnBW;CAAAc,KAAA,CAAWb,CAAX,CACAD,EAAAc,KAAA,OAAkBG,UAAlB,8BACAjB,EAAAc,KAAA,OAAkBI,cAAlB,gCACAC,eAvBmB9B,EAuBHW,CAvBGX,EAdQD,SAwCpBgC,QAAAA,GACP9B,cAAA,CAAeC,SAAf,CACYE,GAAAC,KAAAC,WAAAC,MAAAC,kBAAAwB,CAA2CvB,UAA3CuB,CAAuDtB,gBAAvDsB,CACZC,sBAAA,MAHOF,CAxCoBhC,EAF1B,CAVH;",
+"sources":["SANotificationGridUser.js.uncompressed.js"],
+"names":["define","dojo","declare","lang","connect","_Widget","_TemplatedMixin","_WidgetsInTemplateMixin","FisaEnhancedGrid","CheckBox","SANotificationGridUser","postMixInProperties","inherited","arguments","autoHeight","ec","fisa","controller","utils","getPageController","tabId","pageScopeId","strtr","ats","selectButtonLabel","formatter","data","rowIndex","colDef","d","split","at","fReadOnly","c","grid","fisaChecks","push","id","onlyRead","label","labelRole","structure","startup","ctrlr","setListUserDataGridId"]
+}

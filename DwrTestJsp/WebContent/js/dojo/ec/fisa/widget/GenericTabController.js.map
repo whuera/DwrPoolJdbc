@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"GenericTabController.js",
+"lineCount":2,
+"mappings":"A,SAAAA,OAAA,SACA,wDADA,yIAEAC;MAAA,uCAA8C,4KAAA,MAAA,KAA9C,CAQE,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAA8BC,CAA9B,CAAsCC,CAAtC,CAAuDC,CAAvD,CAAgFC,CAAhF,QAEQH,EAAA,wCAAiDF,CAAjD,CAA0DC,CAA1D,CAAsEE,CAAtE,CAAuFC,CAAvF,YACKE,IAAAC,OAAAC,gBADL,qCAGWH,CAHX,EAFR,CARF;",
+"sources":["GenericTabController.js.uncompressed.js"],
+"names":["require","define","_Widget","_Templated","declare","_TemplatedMixin","_WidgetsInTemplateMixin","template","dojo","config","fisaToDosWidget"]
+}

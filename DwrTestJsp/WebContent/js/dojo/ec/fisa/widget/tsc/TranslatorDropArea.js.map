@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"TranslatorDropArea.js",
+"lineCount":2,
+"mappings":"A,SAAAA,MAAA,yCAAiD,iIAAA,MAAA,KAAjD,CACkE,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAAwBC,CAAxB,CAAsCC,CAAtC,CAChEC,CADgE,QAG1DJ,EAAA,0CAAmDI,CAAnD,oGAOQC,QAAAA,GACbC,YADaD,CACEE,QAAAA,CAASC,CAATD,CAAeE,CAAfF,cACAL,CAAAQ,OAAAC,QAA2B,OAA3BA,wBADAJ,UAIFC,CAAAI,KAAAC,MAAAC,SAAA,CAAyBN,CAAAA,KAAzB,MAJED;KAI4CC,CAAAI,KAAAC,MAAAC,SAAA,CAAyBN,CAAAA,KAAzB,QAJ5CD,gCADFF,CAPR,SAiBGC,QAAAA,GAGRS,cAAA,CAAeC,SAAf,CAHQV,CAjBH,iBAwBYW,QAAAA,CAASC,CAATD,CAAiBE,CAAjBF,WACVG,KAAAC,KAAAC,WAAAC,KAAA,CAA2BC,QAA3B,CAAAC,OADUR,CAxBZ,qBA2BgBS,QAAAA,CAASC,CAATD,CAAeR,CAAfQ,CAAuBE,CAAvBF,WACdN,KAAAC,KAAAC,WAAAC,KAAA,CAA2BC,QAA3B,CAAAC,OADcC,CA3BhB,YA8BKG,QAAAA,OACNC,EAAWV,KAAAC,KAAAC,WAAAC,KAAA,CAA2BQ,cAA3B,CACfA,eAFUF,GAGNrB,EAHMqB,CAGDC,CAAA,GACTE,aAAA,CAAaxB,CAAb,CACAL,EAAA8B,WAAA,CAAmBC,iBAAA,CAAkB1B,CAAlB,CAAnB,CALUqB,QAMHK,iBAAA,CAAkB1B,CAAlB,CACPN,EAAAiC,QAAA,CAAqBlC,CAAAmC,KAAA,CAAU5B,CAAV,CAArB,CAPUqB,CA9BL,EAH0D,CADlE;",
+"sources":["TranslatorDropArea.js.uncompressed.js"],
+"names":["define","declare","dojo","domConstruct","connect","Target","constructor","creator","this.creator","item","hint","create","newNode","tree","store","getValue","inherited","arguments","checkAcceptance","source","nodes","dojox","lang","functional","keys","map","length","checkItemAcceptance","node","position","deleteItem","selections","selection","delItem","disconnect","_connections","destroy","byId"]
+}

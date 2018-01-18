@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"_base.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,gDAAwD,QAAA,CAASC,CAAT,EACvDA,CAAAC,MADuD,UAEvDC,GAAAF,KAAAC,MAFuD,CAEzCD,CAAAC,MAFyC,CAAxD;",
+"sources":["_base.js.uncompressed.js"],
+"names":["define","fisa","print","ec"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"ReadOnlySelect.js",
+"lineCount":4,
+"mappings":"A,SAAAA,OAAA,SACA,kDADA,4LAEAC;MAAA,iCACmC,8HAAA,MAAA,KADnC,CAQE,QAAA,CAASC,CAAT,CAAqBC,CAArB,CAA8BC,CAA9B,CAA0CC,CAA1C,CAAkDC,CAAlD,CAAyDC,CAAzD,QAEQF,EAAA,kCAA2CF,CAA3C,CAAoDC,CAApD,iLAYWG,CAZX,yCAccC,QAAAA,GACnBC,cAAA,CAAeC,SAAf,CACAC,UAFmBH;AAET,KAAK,OAAL,CAFSA,KAGfI,EAASC,EAAAC,KAAAC,WAAAC,MAAAC,kBAAA,CAA2CC,UAA3C,CAAsDC,gBAAtD,CAHMX,OAKhBY,iBALgBZ,GAMlBa,UANkBb,CAMPI,CAAAU,mBAAA,MANOd,CAQnBe,aARmBf,CAQNI,CAAAY,eAAA,SARMhB,CAdd,YAyBKiB,QAAAA,GACVC,mBAAAC,UADUF,YAEFG,GAFEH,CAEEG,CAFFH,CAEIF,YAAAM,OAFJJ,CAEwBG,CAFxBH,QAGLK,EAAOP,YAAA,CAAaK,CAAb,CAHFH,CAILJ,EAAQS,CAAAT,MAJHI,IAKNJ,CALMI,EAKCJ,UALDI,MAKeJ,CALfI,EAORC,mBAAAC,UAPQF,CAMIK,CAAAC,MANJN,SAzBL,SAsCEO,QAAAA,GACPvB,cAAA,CAAeC,SAAf,CADOsB,CAtCF,SA0CEC,QAAAA,GACPxB,cAAA,CAAeC,SAAf,CADOuB,CA1CF,iBA+CUC,QAAAA,CAASb,CAATa;AACZb,CADYa,GAEXb,CAFWa,CAGbrB,EAAAC,KAAAqB,OAAAnB,MAAAoB,aAAA,MAHaF,CAKbrB,EAAAC,KAAAqB,OAAAnB,MAAAqB,cAAA,MALaH,EA/CV,iBAwDUI,QAAAA,SACRzB,GAAAC,KAAAqB,OAAAnB,MAAAuB,UAAA,MADQD,CAxDV,EAFR,CARF;",
+"sources":["ReadOnlySelect.js.uncompressed.js"],
+"names":["require","define","_widgetBase","_Widget","_Templated","declare","number","template","postMixInProperties","inherited","arguments","qtId","cntrlr","ec","fisa","controller","utils","getPageController","tabId","pageScopeId","parentGridId","value","obtainInitialValue","options","loadSelectData","postCreate","_componentNode","innerHTML","i","length","item","label","startup","destroy","_setEnabledAttr","widget","enableWidget","disableWidget","_getEnabledAttr","isEnabled"]
+}

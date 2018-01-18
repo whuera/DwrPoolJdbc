@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"GeneratorControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,yIAAuJ,QAAA,CAASC,CAAT,CAAeC,CAAf,QAC/IA,EAAA,kDAD+I,CAAvJ;",
+"sources":["GeneratorControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

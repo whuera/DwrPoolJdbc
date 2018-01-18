@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"timesync.js",
+"lineCount":1,
+"mappings":"A,SAeAA,MAAA,kFACQ,QAAA,CAASC,CAAT,CAA4BC,CAA5B,MAEAC,EAAS,IAAIF,CACjBC,EAAAE,kBAAA,YAAqCD,CAArC,CAHI,OAIGA,EAJH,CADR;",
+"sources":["timesync.js.uncompressed.js"],
+"names":["define","TimeSyncExtension","cometd","result","registerExtension"]
+}

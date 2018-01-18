@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"_base.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,6CAAqD,QAAA,CAASC,CAAT,EACpDA,CAAAC,IADoD,UAE7CD,EAAAC,IAF6C,CAArD;",
+"sources":["_base.js.uncompressed.js"],
+"names":["define","baseController","tsc"]
+}

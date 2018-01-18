@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"FisaCustomGrid.js",
+"lineCount":3,
+"mappings":"A,SAAAA,MAAA,+BAAsC,yOAAA,MAAA,KAAtC,CAWG,QAAA,CAASC,CAAT,CAAeC,CAAf,CAAwBC,CAAxB,CAAiCC,CAAjC,CAAkDC,CAAlD,CAAoEC,CAApE,CAA4EC,CAA5E,CAAsFC,CAAtF,CAAwGC,CAAxG,CACDC,CADC,QAGKR,EAAA,gCAAwCG,CAAxC,8FAOeM,QAAAA,GACpBC,cAAA,CAAeC,SAAf,CADoBF,KAEhBG;qCAAwFC,sBAAxFD,8BAEDE,sBAJiBL,EAKnBV,CAAAgB,QAAA,mBAA+BC,gBAA/B,CAIDC,aAToBR,iEASwCG,CATxCH,CAUpBS,mBAVoBT,SAWpBU,WAXoBV,CAWR,IAAIJ,CAAJ,CAAae,eAAb,CAA6BC,cAA7B,CAA4CC,UAA5C,CAAwDC,SAAxD,EAAmEC,gBAAnE,OACZL,WAAAM,cAZoBhB,CAYOiB,EAAAC,KAAAP,WAAAQ,MAAAC,kBAAA,CAA2CP,UAA3C,CAAuDE,gBAAvD,CAZPf,CAPf,aAsBMO,QAAAA,CAASc,CAATd,EACFU,EAAAC,KAAAP,WAAAQ,MAAAC,kBAAAE,CAA2CT,UAA3CS;AAAsDP,gBAAtDO,CACTC,0BAAA,CAA6BF,CAA7B,CAFWd,CAtBN,EAHL,CAXH;",
+"sources":["FisaCustomGrid.js.uncompressed.js"],
+"names":["define","dojo","declare","_Widget","_TemplatedMixin","FisaEnhancedGrid","Button","StoreDWR","FisaQtPagination","IndirectSelection","topic","postMixInProperties","inherited","arguments","indirectSelection","selectButtonLabel","captureSelection","connect","onSelection","plugins","selectionMode","store","controller","toExecute","tabId","qtId","pageScopeId","callbackScope","ec","fisa","utils","getPageController","index","fc","createAuthenticationPanel"]
+}

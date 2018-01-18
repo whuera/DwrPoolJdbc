@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"BtSequenceActionButton.js",
+"lineCount":5,
+"mappings":"A,SAAAA,OAAA,SACA,yDADA,oJAEAC;MAAA,gDAAwD,qIAAA,MAAA,KAAxD,CAMqB,QAAA,CAASC,CAAT,CAAiBC,CAAjB,CAA4BC,CAA5B,CAAqCC,CAArC,CAA6CC,CAA7C,CAAsDC,CAAtD,QACbF,EAAA,iDAA0DH,CAA1D,CAAmEC,CAAnE,CAA+EI,CAA/E;4HAsBWH,CAtBX,0CAyBcI,QAAAA,GACnBC,cAAA,CAAeC,SAAf,CADmBF,CAzBd,gBA6BUG,QAAAA,GACfF,cAAA,CAAeC,SAAf,CADeC,CA7BV,SAiCEC,QAAAA,GACPH,cAAA,CAAeC,SAAf,CADOE,EAGPC,eAHOD,CAGWE,EAAAC,KAAAF,WAAAG,MAAAC,kBAAA,CAA2CC,cAA3C,CAA0DC,eAA1D,CAHXP,cAKgB,KAAK,gBAAL,CALhBA,aAKoD,KAAK,gBAAL,CALpDA,GAMNC,eAAAO,iBAAA,MAGDC;mBAAAC,GAAA,SAA+BC,IAAAC,MAAA,MAAgBC,YAAhB,CAA/B,CATOb,CAjCF,SA+CGa,QAAAA,GACRZ,eADQY,CACUX,EAAAC,KAAAF,WAAAG,MAAAC,kBAAA,CAA2CC,cAA3C,CAA0DC,eAA1D,CADVM,QAGDC,qBAHCD,SAKPZ,eAAAc,UAAA,MALOF,cAQPZ,eAAAe,mBAAA,SAROH,cAWPI,YAXOJ,CAWMZ,eAAAiB,aAAA,MAXNL,CAWyCZ,eAAAkB,WAAA,MAXzCN,cAcPZ,eAAAkB,WAAA,MAdON,cAiBPZ,eAAAe,mBAAA,MAjBOH,cAoBPZ,eAAAe,mBAAA;GApBOH,EA/CH,EADa,CANrB;",
+"sources":["BtSequenceActionButton.js.uncompressed.js"],
+"names":["require","define","_Widget","_Templated","template","declare","MvcMixin","Button","postMixInProperties","inherited","arguments","buildRendering","startup","controller","ec","fisa","utils","getPageController","fisatabid","fisapageid","addControllerRef","_componentNode","on","dojo","hitch","onClick","buttonActionType","printPage","sequenceNextAction","ispopup","execActionPU","execAction"]
+}

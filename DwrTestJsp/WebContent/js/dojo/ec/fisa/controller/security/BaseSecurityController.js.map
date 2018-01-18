@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"BaseSecurityController.js",
+"lineCount":2,
+"mappings":"A,SAAAA,MAAA,4JAEU,QAAA,CAASC,CAAT,CAAcC,CAAd,CAAsBC,CAAtB,CAA2BC,CAA3B,QAEUF,EAAAG,uDAA+DD,CAA/DC,GAClB,UADkBA,gHAYLC,QAAAA,CAAUC,CAAVD,CAAgBE,CAAhBF,CAA4BG,CAA5BH,CAAqCI,CAArCJ,CAA+CK,CAA/CL,EACZC,UADYD,CACDC,CACXC,iBAFYF,CAEKE,CACjBE,eAHYJ,CAGII,CAHJJ,UAITK,CAJSL,UAIcK,CAJdL,CAKXK,CALWL,GAOZK,iBAPYL,CAOOK,CAPPL,SAQTK,CARSL,GASXM,eATWN;GAWZO,eAAA,CAAeC,SAAf,CAXYR,CAZKD,oBA2BGU,QAAAA,CAASC,CAATD,EACAE,KAAAC,KAAAC,CAAWC,oBAAXD,CACpBE,iBAAA,EACAC,qBAAA,CAAqBN,CAAAO,MAArB,CAHoBR,QAKjBC,CAAAQ,cALiBT,CAMnBU,kBAAA,EANmBV,CA3BHV,SAqCVqB,QAAAA,IArCUrB,eA0CJoB,QAAAA,CAASE,CAATF,GA1CIpB,eA8CJuB,QAAAA,CAASD,CAATC,GA9CIvB,mBAkDEwB,QAAAA,GAEnBC,GAAAC,OAAAC,eAFmBH,EAGnBI,GAAAC,KAAAJ,IAAAK,MAAAC,QAAAC,KAAA,EAHmBR,CAlDFxB,EAFV,CAFV;",
+"sources":["BaseSecurityController.js.uncompressed.js"],
+"names":["define","dojo","declare","base","SecurityController","BtController","constructor","tabId","pageScopeId","initData","serviceId","calledByDlg","isLovModal","inherited","arguments","handleWindowAction","outcome","dijit","byId","messagesPanel","messagesPanelId","clearAllMessages","updateMsgsPanel","aMsgs","securityValid","onSucessEvent","destroy","argument","onCancelEvent","beforeBlockScreen","dwr","engine","_batchesLength","ec","fisa","proxy","standby","show"]
+}

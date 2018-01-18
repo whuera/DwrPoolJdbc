@@ -1,0 +1,4 @@
+//>>built
+(function(){function c(c){return c.AckExtension=function(){var d,c=!1,e=-1;this.registered=function(a,b){d=b;d._debug("AckExtension: executing registration callback",void 0)};this.unregistered=function(){d._debug("AckExtension: executing unregistration callback",void 0);d=null};this.incoming=function(a){var b=a.channel;if("/meta/handshake"==b)c=a.ext&&a.ext.ack,d._debug("AckExtension: server supports acks",c);else if(c&&"/meta/connect"==b&&a.successful&&(b=a.ext)&&"number"===typeof b.ack)e=b.ack,
+d._debug("AckExtension: server sent ack id",e);return a};this.outgoing=function(a){var b=a.channel;"/meta/handshake"==b?(a.ext||(a.ext={}),a.ext.ack=d&&!1!==d.ackEnabled,e=-1):c&&"/meta/connect"==b&&(a.ext||(a.ext={}),a.ext.ack=e,d._debug("AckExtension: client sending ack id",e));return a}}}"function"===typeof define&&define.amd?define("org/cometd/AckExtension",["org/cometd"],c):c(org.cometd)})();
+//@ sourceMappingURL=AckExtension.js.map

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"AddTabController.js",
+"lineCount":3,
+"mappings":"A,SAAAA,OAAA,SACA,oDADA,gmBAEAC;MAAA,mCAA0C,mNAAA,MAAA,KAA1C,CAYA,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAA8BC,CAA9B,CAAuCC,CAAvC,CAAiDC,CAAjD,CAAuDC,CAAvD,CAAuEC,CAAvE,CAAgGC,CAAhG,QACQL,EAAA,oCAA4CF,CAA5C,CAAqDC,CAArD,CAAiEI,CAAjE,CAAkFC,CAAlF,oBACYE,IAAAC,OAAAC,iBADZ,sCAGUF,IAAAC,OAAAE,gBAHV,gCAKWJ,CALX,SAMEK,QAAAA,GACPC,cAAA,CAAeC,SAAf,CACAX;CAAAY,IAAA,CAAaC,YAAb,iBAFOJ,IAGJF,qBAHIE,EAINT,CAAAY,IAAA,CAAaE,eAAAD,QAAb,uBAJMJ,CANF,EADR,CAZA;",
+"sources":["AddTabController.js.uncompressed.js"],
+"names":["require","define","_Widget","_Templated","declare","domStyle","html","_TemplatedMixin","_WidgetsInTemplateMixin","template","dojo","config","fisaTabMaxNumber","fisaNewTabLabel","startup","inherited","arguments","set","domNode","_newTabBtn"]
+}

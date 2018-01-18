@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"PlataformaControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,2IAAyJ,QAAA,CAASC,CAAT,CAAeC,CAAf,QACjJA,EAAA,mDADiJ,CAAzJ;",
+"sources":["PlataformaControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

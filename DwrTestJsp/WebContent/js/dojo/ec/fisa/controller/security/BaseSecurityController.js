@@ -1,0 +1,4 @@
+//>>built
+define("ec/fisa/controller/security/BaseSecurityController",["dojo/_base/kernel","dojo/_base/declare","./_base","ec/fisa/controller/security/SecurityController"],function(f,c,g,d){return c("ec.fisa.controller.security.BaseSecurityController",[d],{"-chains-":{constructor:"manual"},tabId:null,pageScopeId:null,serviceId:null,calledByDlg:null,isLovModal:null,constructor:function(a,c,d,e,b){this.tabId=a;this.pageScopeId=c;this.serviceId=e;if(null==b||void 0==b)b=!1;this.calledByDlg=b;"true"==b&&(this.isLovModal=
+!0);this.inherited(arguments)},handleWindowAction:function(a){dijit.byId(this.messagesPanelId).clearAllMessages();this.updateMsgsPanel(a.aMsgs);if(!0==a.securityValid)this.onSucessEvent()},destroy:function(){},onSucessEvent:function(a){},onCancelEvent:function(a){},beforeBlockScreen:function(){dwr.engine._batchesLength++;ec.fisa.dwr.proxy.standby.show()}})});
+//@ sourceMappingURL=BaseSecurityController.js.map

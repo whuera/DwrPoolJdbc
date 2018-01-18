@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"ec.profile.js",
+"lineCount":1,
+"mappings":"A,aAAIA,2BAGGC,QAAAA,CAASC,CAATD,CAAmBE,CAAnBF,QACEG,YAAA,CAAaF,CAAb,CADFD,CAHHD,aAOUK,QAAAA,CAASH,CAATG,CAAmBF,CAAnBE,QAELD,gBAAA,CAAiBF,CAAjB,CAFKG,EAEuBD,mBAAA,CAAoBF,CAApB,CAFvBG,EAEsDD,aAAA,CAAcF,CAAd,CAFtDG,CAPVL;",
+"sources":["ec.profile.js.uncompressed.js"],
+"names":["profile","amd","filename","mid","test","miniExclude"]
+}

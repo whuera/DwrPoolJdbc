@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"ImagePickerControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,mKAAkL,QAAA,CAASC,CAAT,CAAeC,CAAf,CAAwBC,CAAxB,QAC1KD,EAAA,6DAD0K,CAAlL;",
+"sources":["ImagePickerControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare","baseController"]
+}

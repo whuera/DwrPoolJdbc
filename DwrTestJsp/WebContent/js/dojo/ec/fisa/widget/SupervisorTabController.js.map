@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"SupervisorTabController.js",
+"lineCount":3,
+"mappings":"A,SAAAA,OAAA,SACA,2DADA,qiDAEAC;MAAA,0CAAiD,0NAAA,MAAA,KAAjD,CAYA,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAA8BC,CAA9B,CAAuCC,CAAvC,CAAiDC,CAAjD,CAAuDC,CAAvD,CAAuEC,CAAvE,CAAgGC,CAAhG,QACQL,EAAA,2CAAmDF,CAAnD,CAA4DC,CAA5D,CAAwEI,CAAxE,CAAyFC,CAAzF,aACIE,IAAAC,OAAAC,aADJ,aAEMF,IAAAC,OAAAE,eAFN,qBAGcH,IAAAC,OAAAG,uBAHd,uBAIgBJ,IAAAC,OAAAI,yBAJhB;oDAOWN,CAPX,6BASEO,QAAAA,GACPC,cAAA,CAAeC,SAAf,CACAb,EAAAc,IAAA,CAAaC,YAAb,iBAFOJ,CATF,EADR,CAZA;",
+"sources":["SupervisorTabController.js.uncompressed.js"],
+"names":["require","define","_Widget","_Templated","declare","domStyle","html","_TemplatedMixin","_WidgetsInTemplateMixin","template","dojo","config","fisaToDosUrl","fisaToDosTitle","fisaSupervisorToDosUrl","fisaSupervisorToDosTitle","startup","inherited","arguments","set","domNode"]
+}

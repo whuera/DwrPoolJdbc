@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"ReadOnlyCheckBox.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,wGACE,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAA4BC,CAA5B,CAAqCC,CAArC,QAEQH,EAAA,2CAAmDC,CAAnD,2CAEeG,QAAAA,GACpBC,aADoBD,GAEpBE,eAAA,CAAeC,SAAf,CAFoBH,CAFf,EAFR,CADF;",
+"sources":["ReadOnlyCheckBox.js.uncompressed.js"],
+"names":["define","declare","CheckBox","domAttr","dojoOn","postMixInProperties","readOnly","inherited","arguments"]
+}

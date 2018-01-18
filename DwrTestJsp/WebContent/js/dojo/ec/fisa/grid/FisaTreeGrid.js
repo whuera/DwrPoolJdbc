@@ -1,0 +1,3 @@
+//>>built
+define("ec/fisa/grid/FisaTreeGrid",["dojo/_base/kernel","dojo/_base/declare","dojo/dom-class","dojox/grid/TreeGrid","./_base"],function(e,b,c,d){return b("ec.fisa.grid.FisaTreeGrid",[d],{_setModel:function(a){this.treeModel=a;c.toggle(this.domNode,"dojoxGridTreeModel",this.treeModel?!0:!1);this._setQuery(a?a.query:null);this._setStore(a?a.store:null)}})});
+//@ sourceMappingURL=FisaTreeGrid.js.map

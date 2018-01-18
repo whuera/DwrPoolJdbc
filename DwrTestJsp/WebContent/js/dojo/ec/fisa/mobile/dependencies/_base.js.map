@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"_base.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,8DAAsE,QAAA,CAASC,CAAT,EACrEA,CAAAC,aADqE,UAE9DD,EAAAC,aAF8D,CAAtE;",
+"sources":["_base.js.uncompressed.js"],
+"names":["define","baseController","dependencies"]
+}

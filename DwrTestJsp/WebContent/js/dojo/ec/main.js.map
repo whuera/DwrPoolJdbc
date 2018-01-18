@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"main.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,oCAA4C,QAAA,CAASC,CAAT,QAMpCA,EANoC,CAA5C;",
+"sources":["main.js.uncompressed.js"],
+"names":["define","fisa"]
+}

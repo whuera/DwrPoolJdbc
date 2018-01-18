@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"timestamp.js",
+"lineCount":1,
+"mappings":"A,SAeAA,MAAA,oFACQ,QAAA,CAASC,CAAT,CAA6BC,CAA7B,MAEAC,EAAS,IAAIF,CACjBC,EAAAE,kBAAA,aAAsCD,CAAtC,CAHI,OAIGA,EAJH,CADR;",
+"sources":["timestamp.js.uncompressed.js"],
+"names":["define","TimeStampExtension","cometd","result","registerExtension"]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"RuleFieldSelectorControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,yJAAuK,QAAA,CAASC,CAAT,CAAeC,CAAf,QAC/JA,EAAA,0DAD+J,CAAvK;",
+"sources":["RuleFieldSelectorControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

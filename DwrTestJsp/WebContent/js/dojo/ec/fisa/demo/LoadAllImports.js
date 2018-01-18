@@ -1,0 +1,3 @@
+//>>built
+define("ec/fisa/demo/LoadAllImports","dojo/_base/declare ec/fisa/widget/TextBox ec/fisa/widget/NumberTextBox ec/fisa/widget/DateTextBox ec/fisa/widget/Select ec/fisa/lov/ListOfValues ec/fisa/grid/FisaQtGrid ec/fisa/controller/custom/QtController ec/fisa/message/Panel dijit/TitlePane dojox/widget/Portlet".split(" "),function(a){return a("ec/fisa/demo/LoadAllImports",null,{})});
+//@ sourceMappingURL=LoadAllImports.js.map

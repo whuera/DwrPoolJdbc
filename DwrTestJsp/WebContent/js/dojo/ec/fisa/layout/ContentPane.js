@@ -1,0 +1,4 @@
+//>>built
+define("ec/fisa/layout/ContentPane",["dojo/_base/lang","dojo/_base/declare","dojo/_base/Deferred","dojox/layout/ContentPane","dojo/_base/xhr"],function(c,f,k,g,h){return f("ec.fisa.layout.ContentPane",g,{_load:function(){this._setContent(this.onDownloadStart(),!0);var a=this,e={preventCache:this.preventCache||this.refreshOnShow,url:this.href,handleAs:"text"};c.isObject(this.ioArgs)&&c.mixin(e,this.ioArgs);var d=this._xhrDfd=(this.ioMethod||h.get)(e);d.addCallback(function(b){try{d.ioArgs.xhr.getResponseHeader("LoginRequired")&&
+location.reload(!0),a._isDownloaded=!0,a._setContent(b,!1),a.onDownloadEnd()}catch(c){a._onError("Content",c)}delete a._xhrDfd;return b});d.addErrback(function(b){d.canceled||a._onError("Download",b);delete a._xhrDfd;return b});delete this._hrefChanged}})});
+//@ sourceMappingURL=ContentPane.js.map

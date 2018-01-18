@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"ApplicationGrid.js",
+"lineCount":4,
+"mappings":"A,SAAAA,MAAA,gDAAuD,mPAAA,MAAA,KAAvD,CAYG,QAAA,CAASC,CAAT,CAAeC,CAAf,CAAwBC,CAAxB,CAA8BC,CAA9B,CAAuCC,CAAvC,CAAgDC,CAAhD,CAAiEC,CAAjE,CAA0FC,CAA1F,CAA4GC,CAA5G,CAA+HC,CAA/H,QAEmBR,EAAAS,iDAAyDD,CAAzDC;qIAeTC,QAAAA,GACXC,cAAA,CAAeC,SAAf,CAEYC,GAAAC,KAAAC,WAAAC,MAAAC,kBAAAC,CAA2CC,UAA3CD,CAAuDE,gBAAvDF,CACZG,gBAJWX,MAfSD,qBAsBDa,QAAAA,GAEnBX,cAAA,CAAeC,SAAf,CAFmBU,KAIfC,uCAA6DC,sBAA7DD,8BAJeD,CAMfG;kBAUDC,aAhBgBJ,EAiBlBI,YAAAH,kBAjBkBD,CAiBaC,CAjBbD,CAkBlBI,YAAAD,WAlBkBH,CAkBMG,CAlBNH,EAoBlBI,YApBkBJ,oBAoBgBC,CApBhBD,YAoBiDG,CApBjDH,CAsBnBK,gBAtBmBL,GAuBnBM,gBAvBmBN,EAuBAO,aACfX,EAxBeI,CAwBPT,EAAAC,KAAAC,WAAAC,MAAAC,kBAAA,CAA2CE,UAA3C,CAAuDC,gBAAvD,CAEZU,eA1BmBR,SA2BKS,gBA3BLT,wCA4BKU,YA5BLV,oCA6BKW,WA7BLX,2CA8BKW,WA9BLX,oCAgCnBY,WAhCmBZ;AAgCRJ,CAAAiB,SAhCQb,CAtBCb,qBAyDD2B,QAAAA,GACPvB,EAAAC,KAAAC,WAAAC,MAAAC,kBAAA,CAA2CE,UAA3C,CAAuDC,gBAAvD,CADOgB,CAzDC3B,SA6Db4B,QAAAA,GACP1B,cAAA,CAAeC,SAAf,CADOyB,CA7Da5B,EAFnB,CAZH;",
+"sources":["ApplicationGrid.js.uncompressed.js"],
+"names":["define","dojo","declare","lang","connect","_Widget","_TemplatedMixin","_WidgetsInTemplateMixin","FisaEnhancedGrid","IndirectSelection","EnhancedGrid","ApplicationGrid","postCreate","inherited","arguments","ec","fisa","controller","utils","getPageController","ctrlr","tabId","pageScopeId","listAppDataGrid","postMixInProperties","indirectSelection","selectButtonLabel","pagination","plugins","autoHeight","selectable","onlyRead","structure","packageName","appName","btName","store","appStore","execSelectionChange","startup"]
+}

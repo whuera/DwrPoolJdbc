@@ -1,0 +1,4 @@
+//>>built
+require({cache:{"url:ec/fisa/widget/templates/VerticalMenuLink.html":'\x3cdiv\x3e\n\t\x3cspan id\x3d"${id}_anchor" class\x3d"${linkClass}" data-dojo-attach-point\x3d"_anchor" data-dojo-attach-event\x3d"ondijitclick:_onClick" title\x3d"${title}"\x3e\x3cspan class\x3d"spacer"\x3e\x3c/span\x3e\x3cspan id\x3d"${id}_span" data-dojo-attach-point\x3d"_span" class\x3d"${labelClass}"\x3e${label}\x3c/span\x3e\x3cdiv data-dojo-attach-point\x3d"containerNode"\x3e\x3c/div\x3e\x3c/span\x3e\n\x3c/div\x3e\n'}});
+define("ec/fisa/widget/VerticalMenuLink",["./Link","dojo/_base/declare","dojo/text!ec/fisa/widget/templates/VerticalMenuLink.html","./_base"],function(a,b,c){return b("ec.fisa.widget.VerticalMenuLink",[a],{templateString:c})});
+//@ sourceMappingURL=VerticalMenuLink.js.map

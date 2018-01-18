@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"ChannelAppOptionsManagerSelect.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,yJAKE,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAAwBC,CAAxB,QACQF,EAAA,sDAA+DE,CAA/D,sCAGKC,QAAAA,GACVC,cAAA,CAAeC,SAAf,CACiBC,GAAAC,KAAAC,WAAAC,MAAAC,kBAAAF,CAA2CG,UAA3CH,CAAsDI,gBAAtDJ,CACjBK,kBAAA,CAA6BC,OAA7B,CAHUX,CAHL,EADR,CALF;",
+"sources":["ChannelAppOptionsManagerSelect.js.uncompressed.js"],
+"names":["define","declare","dojo","Select","postCreate","inherited","arguments","ec","fisa","controller","utils","getPageController","tabId","pageScopeId","setChannelComboId","id"]
+}

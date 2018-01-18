@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"NotificationTransactionControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,sLAAqM,QAAA,CAASC,CAAT,CAAeC,CAAf,QAC7LA,EAAA,oEAD6L,CAArM;",
+"sources":["NotificationTransactionControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

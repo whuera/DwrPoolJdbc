@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"EnhancedGrid.js",
+"lineCount":3,
+"mappings":"A,SAAAA,MAAA,6BAAoC,6KAAA,MAAA,KAApC,CAMG,QAAA,CAASC,CAAT,CAAeC,CAAf,CAAwBC,CAAxB,CAA0CC,CAA1C,CAA0DC,CAA1D,EAEHJ,CAAAK,aAAA,6BAFG,OAIgBJ,EAAAK,6BAAqCJ,CAArCI,kBACDH,CADCG,6CAKDC,QAAAA,GACbC,UADaD,EACCE,oBADDF,EAEfP,CAAAU,QAAA,CAAaD,oBAAb,CAAmCE,eAAnC,MAFeJ,IAIbC,UAJaD,MAKXC;AAAQA,UALGD,QAMRC,UACJA,EAAAI,QAPYL,EAQdC,CAAAI,QAAA,EARcL,QAURC,CAVQD,EALCD,YAkBNO,QAAAA,OACPC,sBACAC,sBAFOF,GAGVC,CAHUD,0CAKHG,GALGH,CAKEI,CALFJ,CAKOI,CALPJ,CAKUK,WAAAC,UAAA,CAAsBH,CAAtB,CALVH,CAKqCG,CALrCH,GAMVO,eAAA,CAAgBH,CAAAI,KAAhB,EAA2BP,CAA3B,CAAqCE,CAArC,CAAAM,aAAA,CAAqDL,CAArD,CAEDM,cAAAC,gBAAA,CAA8BC,UAAAC,gBAAA,EAA9B,CARWb,CAlBMP,YA4BNqB,QAAAA,MACRC,gBADQD,MAGNE,MAHMF,CAUTE,EANEzB,CAAA,MAMFyB,CAAcJ,UAAAK,eAAA,EAAdD,GAEcJ,UAAAK,eAAA,EAZLH,CAcNI,EAAOC,IAAAC,IAAA,CAASJ,CAAT,CAAPE,KACJG,eAAAC,MAAAC,OAfUT,CAeoBI,CAfpBJ,EA5BMrB,SA+CV+B,QAAAA,GACPC,aAAA,IADOD,CA/CU/B;OAmDXiC,QAAAA,GACNC,QADMD,GAENE,eAAA,CAAeC,SAAf,CACAF,SAHMD,IAnDWjC,EAJhB,CANH;",
+"sources":["EnhancedGrid.js.uncompressed.js"],
+"names":["define","dojo","declare","DojoEnhancedGrid","_PluginManager","has","experimental","EnhancedGrid","destroyRendering","store","_store_connects","forEach","disconnect","destroy","buildViews","viewType","fisaEditableGrid","i","vs","layout","structure","createView","type","setStructure","scroller","setContentNodes","views","getContentNodes","postresize","_autoHeight","contentHeight","measureContent","size","Math","max","viewsNode","style","height","refresh","_refresh","resize","_fr","inherited","arguments"]
+}

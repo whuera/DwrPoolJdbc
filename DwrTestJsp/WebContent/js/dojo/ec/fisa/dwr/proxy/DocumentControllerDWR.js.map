@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"DocumentControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,uIAAqJ,QAAA,CAASC,CAAT,CAAeC,CAAf,QAC7IA,EAAA,iDAD6I,CAArJ;",
+"sources":["DocumentControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

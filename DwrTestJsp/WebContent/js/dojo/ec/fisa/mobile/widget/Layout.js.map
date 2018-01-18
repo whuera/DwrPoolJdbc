@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"Layout.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,gCAAwC,8FAAA,MAAA,KAAxC,CAOC,QAAA,CAASC,CAAT,CAAiBC,CAAjB,CAA6BC,CAA7B,CAAkCC,CAAlC,CAAqCC,CAArC,QAIOJ,EAAA,kCAAyCC,CAAzC,8BAESI,QAAAA,GACdC,cAAA,CAAeC,SAAf,CADcF,wBAEXG,aAFWH,EAGbD,CAAAK,IAAA,CAAaC,YAAb,uBAHaL,CAFT,SAQEM,QAAAA,GACPL,cAAA,CAAeC,SAAf,CADOI,wBAEJH,aAFIG,EAGNP,CAAAK,IAAA,CAAaC,YAAb,uBAHMC,CARF,EAJP,CAPD;",
+"sources":["Layout.js.uncompressed.js"],
+"names":["define","declare","ContentPane","dojo","on","domStyle","buildRendering","inherited","arguments","viewType","set","domNode","startup"]
+}

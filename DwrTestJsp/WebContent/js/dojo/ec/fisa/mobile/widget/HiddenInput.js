@@ -1,0 +1,5 @@
+//>>built
+require({cache:{"url:ec/fisa/mobile/widget/templates/HiddenInput.html":'\x3cdiv\x3e\n\t\x3cinput id\x3d"${id}_input" type\x3d"hidden" data-dojo-attach-point\x3d"_input"\x3e\x3c/input\x3e\n\x3c/div\x3e'}});
+define("ec/fisa/mobile/widget/HiddenInput","dijit/_WidgetBase dijit/_Templated ./_MvcMixin dojo/_base/declare dojo/text!./templates/HiddenInput.html ./_base".split(" "),function(a,b,c,d,e){return d("ec.fisa.mobile.widget.HiddenInput",[a,b,c],{_input:null,ftype:"bt",widgetsInTemplate:!0,classStyle:"",templateString:e,postMixInProperties:function(){this.inherited(arguments)},startup:function(){this.addParamToModel()},buildRendering:function(){this.inherited(arguments)},_getValueAttr:function(){return this._input.value},
+_setValueAttr:function(a,b,c){this._input.value=a}})});
+//@ sourceMappingURL=HiddenInput.js.map

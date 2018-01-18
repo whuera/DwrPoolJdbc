@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"RouteElementAttributesTable.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,kJAKO,QAAA,CAASC,CAAT,CAAkBC,CAAlB,CAAwBC,CAAxB,CAAqCC,CAArC,QAECH,EAAA,mDAA4DG,CAA5D,0DAGMC,QAAAA,GACXC,cAAA,CAAeC,SAAf,CAEAC,0BAHWH,CAGiBI,OAHjBJ,CAHN,WAQKK,QAAAA,CAASC,CAATD,GARL,EAFD,CALP;",
+"sources":["RouteElementAttributesTable.js.uncompressed.js"],
+"names":["define","declare","dojo","domConstruct","DataGrid","postCreate","inherited","arguments","dataTableGeneratedId","id","onKeyDown","e"]
+}

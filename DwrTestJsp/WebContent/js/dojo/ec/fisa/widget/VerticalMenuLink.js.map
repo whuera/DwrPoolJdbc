@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"VerticalMenuLink.js",
+"lineCount":2,
+"mappings":"A,SAAAA,OAAA,SACA,oDADA,gbAEAC;MAAA,wIAOE,QAAA,CAASC,CAAT,CAAeC,CAAf,CAAwBC,CAAxB,QAEQD,EAAA,oCAA6CD,CAA7C,kBACWE,CADX,EAFR,CAPF;",
+"sources":["VerticalMenuLink.js.uncompressed.js"],
+"names":["require","define","Link","declare","template"]
+}

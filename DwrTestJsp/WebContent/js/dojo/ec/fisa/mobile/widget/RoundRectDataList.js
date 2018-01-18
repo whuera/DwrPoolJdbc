@@ -1,0 +1,3 @@
+//>>built
+define("ec/fisa/mobile/widget/RoundRectDataList",["dojo/_base/declare","dojox/mobile/RoundRectDataList","dojo/_base/array"],function(b,d,c){return b("ec.fisa.mobile.widget.RoundRectDataList",[d],{generateList:function(a,b){c.forEach(this.getChildren(),function(a){a.destroyRecursive()});this.createHeaderListItem&&this.createHeaderListItem();c.forEach(a,function(a,b){this.addChild(this.createListItem(a,b))},this)},onError:function(a,b){console.log(a)}})});
+//@ sourceMappingURL=RoundRectDataList.js.map

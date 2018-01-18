@@ -1,0 +1,3 @@
+//>>built
+define("ec/fisa/layout/ContentDocumentPane","dojo/_base/lang dojo/_base/declare dojo/_base/Deferred dojox/layout/ContentPane dojo/_base/xhr ec/fisa/controller/Utils".split(" "),function(c,a,d,b,e){return a("ec.fisa.layout.ContentDocumentPane",b,{tabId:null,pageScopeId:null,startup:function(){this.inherited(arguments);ec.fisa.controller.utils.getPageController(this.tabId,this.pageScopeId).initTreeGrid(this)}})});
+//@ sourceMappingURL=ContentDocumentPane.js.map

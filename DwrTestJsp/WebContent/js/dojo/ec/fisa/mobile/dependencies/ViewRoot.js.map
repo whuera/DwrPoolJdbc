@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"ViewRoot.js",
+"lineCount":2,
+"mappings":"A,SAAAA,MAAA,wCAA+C,ohCAAA,MAAA,KAA/C;AA2FK,QAAA,CAASC,CAAT,CAAeC,CAAf,CAAwBC,CAAxB,CACHC,CADG,CACSC,CADT,EAEAC,CAFA,CAEWJ,CAAA,iEAIfK,GAAAC,KAAAC,OAAAC,aAAAC,SANI,CAMmC,IAAIL,CANvC,OAOGA,EAPH,CA3FL;",
+"sources":["ViewRoot.js.uncompressed.js"],
+"names":["define","dojo","declare","domStyle","functional","domAttr","ViewRoot","ec","fisa","mobile","dependencies","viewRoot"]
+}

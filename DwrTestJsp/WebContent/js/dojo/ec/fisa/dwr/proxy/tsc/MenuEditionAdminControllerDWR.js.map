@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"MenuEditionAdminControllerDWR.js",
+"lineCount":1,
+"mappings":"A,SAAAA,MAAA,wKAAuL,QAAA,CAASC,CAAT,CAAeC,CAAf,QAC/KA,EAAA,6DAD+K,CAAvL;",
+"sources":["MenuEditionAdminControllerDWR.js.uncompressed.js"],
+"names":["define","dojo","declare"]
+}

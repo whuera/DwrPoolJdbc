@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"fisa.profile.js",
+"lineCount":2,
+"mappings":"A,aAAIA,uRAsBF,WAtBEA,+CA2BF,aA3BEA,sDA+BH,SA/BGA,uBAkCF,wCAlCEA;AAqCJ,wCArCIA,wNA2EIC,QAAAA,CAASC,CAATD,CAAmBE,CAAnBF,QACEG,YAAA,CAAaF,CAAb,CADFD,CA3EJD;",
+"sources":["fisa.profile.js.uncompressed.js"],
+"names":["profile","amd","filename","mid","test"]
+}

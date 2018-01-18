@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"TimeStampExtension.js",
+"lineCount":1,
+"mappings":"A,SAgBC,SAAA,GAEGA,QAASA,EAATA,CAAcC,CAAdD,QAKWC,EAAAC,mBALXF,CAK2CG,QAAAA,GAEnCC,aAFmCD,CAEnBE,QAAAA,CAASC,CAATD,EAEZC,CAAAC,UAFYF,CAEQG,CAAA,IAAIC,IAAJD,aAAA,EAFRH,OAGLC,EAHKD,CAFmBF,CAL3CH,CAFH,mBAiBcU,OAjBd,EAiBuCA,MAAAC,IAjBvC,CAmBOD,MAAA,gDAAwDV,CAAxD,CAnBP,CAuBOA,CAAA,CAAKY,GAAAC,OAAL,CAvBP,EAAA;",
+"sources":["TimeStampExtension.js.uncompressed.js"],
+"names":["bind","org_cometd","TimeStampExtension","org_cometd.TimeStampExtension","outgoing","this.outgoing","message","timestamp","toUTCString","Date","define","amd","org","cometd"]
+}

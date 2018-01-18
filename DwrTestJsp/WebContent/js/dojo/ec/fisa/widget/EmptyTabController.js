@@ -1,0 +1,4 @@
+//>>built
+define("ec/fisa/widget/EmptyTabController","dijit/_Widget dijit/_Templated dojo/_base/declare dojo/dom-style dojo/html dijit/_TemplatedMixin dijit/_WidgetsInTemplateMixin dijit/form/Button ./_base".split(" "),function(a,b,c,d,g,e,f){return c("ec.fisa.widget.EmptyTabController",[a,b,e,f],{agendaUrl:dojo.config.fisaToDosUrl,agendaTitle:dojo.config.fisaToDosTitle,widgetsInTemplate:!0,nuevoTabMensaje:dojo.config.fisaNewTabLabel,_newTabBtn:null,fisaTabMaxNumber:dojo.config.fisaTabMaxNumber,templateString:dojo.cache("ec.fisa.widget.EmptyTabController",
+"../templates/EmptyTabController.html"),startup:function(){this.inherited(arguments);d.set(this.domNode,"visibility","")}})});
+//@ sourceMappingURL=EmptyTabController.js.map
